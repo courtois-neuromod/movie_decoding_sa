@@ -1,0 +1,7 @@
+(35441, 1500) (3938, 1500) (35441, 444) (3938, 444)
+Traceback (most recent call last):
+  File "Bootstrap_Ridge.py", line 15, in <module>
+    from ridge import bootstrap_ridge
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Data_PCA/ridge.py", line 4, in <module>
+    from ridge_utils import mult_diag, counter
+ModuleNotFoundError: No module named 'ridge_utils'

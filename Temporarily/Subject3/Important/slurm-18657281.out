@@ -1,0 +1,33 @@
+INFO:ridge_corr:Selecting held-out test set..
+INFO:ridge_corr:Doing SVD...
+INFO:ridge_corr:Dropped 0 tiny singular values.. (U is now (4200, 4200))
+INFO:ridge_corr:Training stimulus has LSV norm: 848.552
+INFO:ridge_corr:Average difference between actual & assumed Prespvar: -0.017
+INFO:ridge_corr:Training: alpha=1.000, mean corr=0.02209, max corr=0.10006, over-under(0.20)=0
+INFO:ridge_corr:Training: alpha=2.154, mean corr=0.02212, max corr=0.10006, over-under(0.20)=0
+INFO:ridge_corr:Training: alpha=4.642, mean corr=0.02227, max corr=0.10008, over-under(0.20)=0
+INFO:ridge_corr:Training: alpha=10.000, mean corr=0.02291, max corr=0.10003, over-under(0.20)=0
+INFO:ridge_corr:Training: alpha=21.544, mean corr=0.02507, max corr=0.10441, over-under(0.20)=0
+INFO:ridge_corr:Training: alpha=46.416, mean corr=0.02862, max corr=0.11331, over-under(0.20)=0
+INFO:ridge_corr:Training: alpha=100.000, mean corr=0.03018, max corr=0.13970, over-under(0.20)=0
+INFO:ridge_corr:Training: alpha=215.443, mean corr=0.02907, max corr=0.17456, over-under(0.20)=0
+INFO:ridge_corr:Training: alpha=464.159, mean corr=0.02787, max corr=0.18018, over-under(0.20)=0
+INFO:ridge_corr:Training: alpha=1000.000, mean corr=0.02617, max corr=0.18755, over-under(0.20)=0
+INFO:counter:1/1 items complete (159.85 seconds/item, 00:00:00 remaining)
+INFO:ridge_corr:Finding single best alpha..
+INFO:ridge_corr:Best alpha = 100.000
+INFO:ridge_corr:Computing weights for each response using entire training set..
+INFO:ridge_corr:Predicting responses for predictions set..
+Xx_T.shape (39594, 12000)
+Label_T.shape (39594, 444)
+(733, 2000) (733, 2000) (733, 2000) (733, 2000) (733, 2000) (733, 2000)
+Xx_test.shape and label_test.shape (733, 12000) (733, 444)
+Traceback (most recent call last):
+  File "Sub3_T2.py", line 127, in <module>
+    np.save('pred_test.npy', pred_test)
+  File "<__array_function__ internals>", line 6, in save
+  File "/home/sana4471/.local/lib/python3.7/site-packages/numpy/lib/npyio.py", line 530, in save
+    pickle_kwargs=dict(fix_imports=fix_imports))
+  File "/home/sana4471/.local/lib/python3.7/site-packages/numpy/lib/format.py", line 687, in write_array
+    array.tofile(fp)
+OSError: 325452 requested and 262640 written

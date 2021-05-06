@@ -1,0 +1,13 @@
+#################### The number of BOLD files:
+92
+/home/sana4471/projects/rrg-pbellec/sana4471/movie_decoding_sa/data/friends/derivatives/fmriprep-20.1.0/fmriprep/sub-03/ses-001/func/sub-03_ses-001_task-s01e01a_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+Traceback (most recent call last):
+  File "fMRI_Data.py", line 20, in <module>
+    masker= NiftiLabelsMasker(labels_img='MIST_444.nii.gz', standardize=True, detrend=False, smoothing_fwhm=8).fit()
+  File "/home/sana4471/.local/lib/python3.7/site-packages/nilearn/input_data/nifti_labels_masker.py", line 179, in fit
+    self.labels_img_ = _utils.check_niimg_3d(self.labels_img)
+  File "/home/sana4471/.local/lib/python3.7/site-packages/nilearn/_utils/niimg_conversions.py", line 316, in check_niimg_3d
+    return check_niimg(niimg, ensure_ndim=3, dtype=dtype)
+  File "/home/sana4471/.local/lib/python3.7/site-packages/nilearn/_utils/niimg_conversions.py", line 251, in check_niimg
+    raise ValueError("File not found: '%s'" % niimg)
+ValueError: File not found: 'MIST_444.nii.gz'

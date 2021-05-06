@@ -1,0 +1,96 @@
+2021-04-22 10:33:18.852526: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-04-22 10:33:26.085067: I tensorflow/compiler/jit/xla_cpu_device.cc:41] Not creating XLA devices, tf_xla_enable_xla_devices not set
+2021-04-22 10:33:26.089548: W tensorflow/stream_executor/platform/default/dso_loader.cc:60] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2021-04-22 10:33:26.089729: W tensorflow/stream_executor/cuda/cuda_driver.cc:326] failed call to cuInit: UNKNOWN ERROR (303)
+2021-04-22 10:33:26.090157: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (blg9338.int.ets1.calculquebec.ca): /proc/driver/nvidia/version does not exist
+2021-04-22 10:33:26.093645: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 AVX512F FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-04-22 10:33:26.093716: I tensorflow/compiler/jit/xla_gpu_device.cc:99] Not creating XLA devices, tf_xla_enable_xla_devices not set
+2021-04-22 10:36:30.700334: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:116] None of the MLIR optimization passes are enabled (registered 2)
+2021-04-22 10:36:30.708199: I tensorflow/core/platform/profile_utils/cpu_utils.cc:112] CPU Frequency: 2500000000 Hz
+/home/sana4471/.local/lib/python3.7/site-packages/numpy/core/_asarray.py:171: VisibleDeprecationWarning: Creating an ndarray from ragged nested sequences (which is a list-or-tuple of lists-or-tuples-or ndarrays with different lengths or shapes) is deprecated. If you meant to do this, you must specify 'dtype=object' when creating the ndarray.
+  return array(a, dtype, copy=False, order=order, subok=True)
+Model: "vgg16"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+input_1 (InputLayer)         [(None, 224, 224, 3)]     0         
+_________________________________________________________________
+block1_conv1 (Conv2D)        (None, 224, 224, 64)      1792      
+_________________________________________________________________
+block1_conv2 (Conv2D)        (None, 224, 224, 64)      36928     
+_________________________________________________________________
+block1_pool (MaxPooling2D)   (None, 112, 112, 64)      0         
+_________________________________________________________________
+block2_conv1 (Conv2D)        (None, 112, 112, 128)     73856     
+_________________________________________________________________
+block2_conv2 (Conv2D)        (None, 112, 112, 128)     147584    
+_________________________________________________________________
+block2_pool (MaxPooling2D)   (None, 56, 56, 128)       0         
+_________________________________________________________________
+block3_conv1 (Conv2D)        (None, 56, 56, 256)       295168    
+_________________________________________________________________
+block3_conv2 (Conv2D)        (None, 56, 56, 256)       590080    
+_________________________________________________________________
+block3_conv3 (Conv2D)        (None, 56, 56, 256)       590080    
+_________________________________________________________________
+block3_pool (MaxPooling2D)   (None, 28, 28, 256)       0         
+_________________________________________________________________
+block4_conv1 (Conv2D)        (None, 28, 28, 512)       1180160   
+_________________________________________________________________
+block4_conv2 (Conv2D)        (None, 28, 28, 512)       2359808   
+_________________________________________________________________
+block4_conv3 (Conv2D)        (None, 28, 28, 512)       2359808   
+_________________________________________________________________
+block4_pool (MaxPooling2D)   (None, 14, 14, 512)       0         
+_________________________________________________________________
+block5_conv1 (Conv2D)        (None, 14, 14, 512)       2359808   
+_________________________________________________________________
+block5_conv2 (Conv2D)        (None, 14, 14, 512)       2359808   
+_________________________________________________________________
+block5_conv3 (Conv2D)        (None, 14, 14, 512)       2359808   
+_________________________________________________________________
+block5_pool (MaxPooling2D)   (None, 7, 7, 512)         0         
+_________________________________________________________________
+flatten (Flatten)            (None, 25088)             0         
+_________________________________________________________________
+fc1 (Dense)                  (None, 4096)              102764544 
+_________________________________________________________________
+fc2 (Dense)                  (None, 4096)              16781312  
+_________________________________________________________________
+predictions (Dense)          (None, 1000)              4097000   
+=================================================================
+Total params: 138,357,544
+Trainable params: 138,357,544
+Non-trainable params: 0
+_________________________________________________________________
+/home/sana4471/projects/rrg-pbellec/sana4471/movie_decoding_sa/data/friends/stimuli/s1/friends_s1e01a.mkv
+Done!
+(717, 224, 224, 64)
+/home/sana4471/projects/rrg-pbellec/sana4471/movie_decoding_sa/data/friends/stimuli/s1/friends_s1e01b.mkv
+Done!
+(717, 224, 224, 64)
+/home/sana4471/projects/rrg-pbellec/sana4471/movie_decoding_sa/data/friends/stimuli/s1/friends_s1e02a.mkv
+Done!
+(702, 224, 224, 64)
+/home/sana4471/projects/rrg-pbellec/sana4471/movie_decoding_sa/data/friends/stimuli/s1/friends_s1e02b.mkv
+Done!
+(702, 224, 224, 64)
+/home/sana4471/projects/rrg-pbellec/sana4471/movie_decoding_sa/data/friends/stimuli/s1/friends_s1e03a.mkv
+Done!
+(748, 224, 224, 64)
+/home/sana4471/projects/rrg-pbellec/sana4471/movie_decoding_sa/data/friends/stimuli/s1/friends_s1e03b.mkv
+Done!
+(748, 224, 224, 64)
+/home/sana4471/projects/rrg-pbellec/sana4471/movie_decoding_sa/data/friends/stimuli/s1/friends_s1e04a.mkv
+Done!
+(696, 224, 224, 64)
+/home/sana4471/projects/rrg-pbellec/sana4471/movie_decoding_sa/data/friends/stimuli/s1/friends_s1e04b.mkv
+Done!
+(696, 224, 224, 64)
+/home/sana4471/projects/rrg-pbellec/sana4471/movie_decoding_sa/data/friends/stimuli/s1/friends_s1e05a.mkv
+Done!
+(726, 224, 224, 64)
+/home/sana4471/projects/rrg-pbellec/sana4471/movie_decoding_sa/data/friends/stimuli/s1/friends_s1e05b.mkv
+Done!
+(726, 224, 224, 64)

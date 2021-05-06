@@ -1,0 +1,4 @@
+  File "sub3_T.py", line 18
+    print('Xx_T.shape', Xx_T.shape)
+        ^
+SyntaxError: invalid syntax

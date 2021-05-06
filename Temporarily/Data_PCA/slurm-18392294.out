@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "Bootstrap_Ridge.py", line 8, in <module>
+    print( type(y), type(x))
+NameError: name 'x' is not defined

@@ -1,0 +1,23 @@
+INFO:ridge_corr:Selecting held-out test set..
+INFO:ridge_corr:Doing SVD...
+INFO:ridge_corr:Dropped 0 tiny singular values.. (U is now (34641, 2000))
+INFO:ridge_corr:Training stimulus has LSV norm: 2347.256
+INFO:ridge_corr:Average difference between actual & assumed Prespvar: 0.004
+INFO:ridge_corr:Training: alpha=1.000, mean corr=0.03257, max corr=0.24255, over-under(0.20)=2
+INFO:ridge_corr:Training: alpha=2.154, mean corr=0.03257, max corr=0.24257, over-under(0.20)=2
+INFO:ridge_corr:Training: alpha=4.642, mean corr=0.03260, max corr=0.24269, over-under(0.20)=2
+INFO:ridge_corr:Training: alpha=10.000, mean corr=0.03269, max corr=0.24320, over-under(0.20)=2
+INFO:ridge_corr:Training: alpha=21.544, mean corr=0.03308, max corr=0.24514, over-under(0.20)=2
+INFO:ridge_corr:Training: alpha=46.416, mean corr=0.03407, max corr=0.25848, over-under(0.20)=2
+INFO:ridge_corr:Training: alpha=100.000, mean corr=0.03438, max corr=0.28031, over-under(0.20)=3
+INFO:ridge_corr:Training: alpha=215.443, mean corr=0.03140, max corr=0.27094, over-under(0.20)=3
+INFO:ridge_corr:Training: alpha=464.159, mean corr=0.02707, max corr=0.24733, over-under(0.20)=3
+INFO:ridge_corr:Training: alpha=1000.000, mean corr=0.02425, max corr=0.23146, over-under(0.20)=2
+INFO:counter:1/1 items complete (37.60 seconds/item, 00:00:00 remaining)
+INFO:ridge_corr:Finding single best alpha..
+INFO:ridge_corr:Best alpha = 100.000
+INFO:ridge_corr:Computing weights for each response using entire training set..
+INFO:ridge_corr:Predicting responses for predictions set..
+(35441, 2000) (3938, 2000) (35441, 444) (3938, 444)
+(2000, 444)
+(444,)

@@ -1,0 +1,1 @@
+/var/spool/slurmd/job18636165/slurm_script: line 5: 22486 Bus error               (core dumped) python Movie_feature_extraction.py

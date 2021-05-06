@@ -1,0 +1,299 @@
+INFO:ridge_corr:Selecting held-out test set..
+INFO:ridge_corr:Doing SVD...
+INFO:ridge_corr:Dropped 0 tiny singular values.. (U is now (38794, 12000))
+--- Logging error ---
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1029, in emit
+    self.flush()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1009, in flush
+    self.stream.flush()
+OSError: [Errno 122] Disk quota exceeded
+Call stack:
+  File "sub3_T.py", line 109, in <module>
+    singcutoff=1e-10, single_alpha=True)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 395, in bootstrap_ridge
+    logger=logger)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 230, in ridge_corr
+    logger.info("Dropped %d tiny singular values.. (U is now %s)"%(nbad, str(U.shape)))
+Message: 'Dropped 0 tiny singular values.. (U is now (38794, 12000))'
+Arguments: ()
+INFO:ridge_corr:Training stimulus has LSV norm: 2499.653
+--- Logging error ---
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1029, in emit
+    self.flush()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1009, in flush
+    self.stream.flush()
+OSError: [Errno 122] Disk quota exceeded
+Call stack:
+  File "sub3_T.py", line 109, in <module>
+    singcutoff=1e-10, single_alpha=True)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 395, in bootstrap_ridge
+    logger=logger)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 234, in ridge_corr
+    logger.info("Training stimulus has LSV norm: %0.03f"%norm)
+Message: 'Training stimulus has LSV norm: 2499.653'
+Arguments: ()
+INFO:ridge_corr:Average difference between actual & assumed Prespvar: -0.009
+--- Logging error ---
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1029, in emit
+    self.flush()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1009, in flush
+    self.stream.flush()
+OSError: [Errno 122] Disk quota exceeded
+Call stack:
+  File "sub3_T.py", line 109, in <module>
+    singcutoff=1e-10, single_alpha=True)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 395, in bootstrap_ridge
+    logger=logger)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 249, in ridge_corr
+    logger.info("Average difference between actual & assumed Prespvar: %0.3f" % (Prespvar_actual - Prespvar).mean())
+Message: 'Average difference between actual & assumed Prespvar: -0.009'
+Arguments: ()
+INFO:ridge_corr:Training: alpha=1.000, mean corr=0.04878, max corr=0.16211, over-under(0.20)=0
+--- Logging error ---
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1029, in emit
+    self.flush()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1009, in flush
+    self.stream.flush()
+OSError: [Errno 122] Disk quota exceeded
+Call stack:
+  File "sub3_T.py", line 109, in <module>
+    singcutoff=1e-10, single_alpha=True)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 395, in bootstrap_ridge
+    logger=logger)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 285, in ridge_corr
+    logger.info(log_msg)
+Message: 'Training: alpha=1.000, mean corr=0.04878, max corr=0.16211, over-under(0.20)=0'
+Arguments: ()
+INFO:ridge_corr:Training: alpha=2.154, mean corr=0.04880, max corr=0.16214, over-under(0.20)=0
+--- Logging error ---
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1029, in emit
+    self.flush()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1009, in flush
+    self.stream.flush()
+OSError: [Errno 122] Disk quota exceeded
+Call stack:
+  File "sub3_T.py", line 109, in <module>
+    singcutoff=1e-10, single_alpha=True)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 395, in bootstrap_ridge
+    logger=logger)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 285, in ridge_corr
+    logger.info(log_msg)
+Message: 'Training: alpha=2.154, mean corr=0.04880, max corr=0.16214, over-under(0.20)=0'
+Arguments: ()
+INFO:ridge_corr:Training: alpha=4.642, mean corr=0.04892, max corr=0.16225, over-under(0.20)=0
+--- Logging error ---
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1029, in emit
+    self.flush()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1009, in flush
+    self.stream.flush()
+OSError: [Errno 122] Disk quota exceeded
+Call stack:
+  File "sub3_T.py", line 109, in <module>
+    singcutoff=1e-10, single_alpha=True)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 395, in bootstrap_ridge
+    logger=logger)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 285, in ridge_corr
+    logger.info(log_msg)
+Message: 'Training: alpha=4.642, mean corr=0.04892, max corr=0.16225, over-under(0.20)=0'
+Arguments: ()
+INFO:ridge_corr:Training: alpha=10.000, mean corr=0.04946, max corr=0.16274, over-under(0.20)=0
+--- Logging error ---
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1029, in emit
+    self.flush()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1009, in flush
+    self.stream.flush()
+OSError: [Errno 122] Disk quota exceeded
+Call stack:
+  File "sub3_T.py", line 109, in <module>
+    singcutoff=1e-10, single_alpha=True)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 395, in bootstrap_ridge
+    logger=logger)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 285, in ridge_corr
+    logger.info(log_msg)
+Message: 'Training: alpha=10.000, mean corr=0.04946, max corr=0.16274, over-under(0.20)=0'
+Arguments: ()
+INFO:ridge_corr:Training: alpha=21.544, mean corr=0.05161, max corr=0.17393, over-under(0.20)=0
+--- Logging error ---
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1029, in emit
+    self.flush()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1009, in flush
+    self.stream.flush()
+OSError: [Errno 122] Disk quota exceeded
+Call stack:
+  File "sub3_T.py", line 109, in <module>
+    singcutoff=1e-10, single_alpha=True)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 395, in bootstrap_ridge
+    logger=logger)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 285, in ridge_corr
+    logger.info(log_msg)
+Message: 'Training: alpha=21.544, mean corr=0.05161, max corr=0.17393, over-under(0.20)=0'
+Arguments: ()
+INFO:ridge_corr:Training: alpha=46.416, mean corr=0.05783, max corr=0.20583, over-under(0.20)=1
+--- Logging error ---
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1029, in emit
+    self.flush()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1009, in flush
+    self.stream.flush()
+OSError: [Errno 122] Disk quota exceeded
+Call stack:
+  File "sub3_T.py", line 109, in <module>
+    singcutoff=1e-10, single_alpha=True)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 395, in bootstrap_ridge
+    logger=logger)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 285, in ridge_corr
+    logger.info(log_msg)
+Message: 'Training: alpha=46.416, mean corr=0.05783, max corr=0.20583, over-under(0.20)=1'
+Arguments: ()
+INFO:ridge_corr:Training: alpha=100.000, mean corr=0.06825, max corr=0.24886, over-under(0.20)=2
+--- Logging error ---
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1029, in emit
+    self.flush()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1009, in flush
+    self.stream.flush()
+OSError: [Errno 122] Disk quota exceeded
+Call stack:
+  File "sub3_T.py", line 109, in <module>
+    singcutoff=1e-10, single_alpha=True)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 395, in bootstrap_ridge
+    logger=logger)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 285, in ridge_corr
+    logger.info(log_msg)
+Message: 'Training: alpha=100.000, mean corr=0.06825, max corr=0.24886, over-under(0.20)=2'
+Arguments: ()
+INFO:ridge_corr:Training: alpha=215.443, mean corr=0.07682, max corr=0.27348, over-under(0.20)=4
+--- Logging error ---
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1029, in emit
+    self.flush()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1009, in flush
+    self.stream.flush()
+OSError: [Errno 122] Disk quota exceeded
+Call stack:
+  File "sub3_T.py", line 109, in <module>
+    singcutoff=1e-10, single_alpha=True)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 395, in bootstrap_ridge
+    logger=logger)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 285, in ridge_corr
+    logger.info(log_msg)
+Message: 'Training: alpha=215.443, mean corr=0.07682, max corr=0.27348, over-under(0.20)=4'
+Arguments: ()
+INFO:ridge_corr:Training: alpha=464.159, mean corr=0.07913, max corr=0.28866, over-under(0.20)=12
+--- Logging error ---
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1029, in emit
+    self.flush()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1009, in flush
+    self.stream.flush()
+OSError: [Errno 122] Disk quota exceeded
+Call stack:
+  File "sub3_T.py", line 109, in <module>
+    singcutoff=1e-10, single_alpha=True)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 395, in bootstrap_ridge
+    logger=logger)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 285, in ridge_corr
+    logger.info(log_msg)
+Message: 'Training: alpha=464.159, mean corr=0.07913, max corr=0.28866, over-under(0.20)=12'
+Arguments: ()
+INFO:ridge_corr:Training: alpha=1000.000, mean corr=0.07747, max corr=0.28781, over-under(0.20)=14
+--- Logging error ---
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1029, in emit
+    self.flush()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1009, in flush
+    self.stream.flush()
+OSError: [Errno 122] Disk quota exceeded
+Call stack:
+  File "sub3_T.py", line 109, in <module>
+    singcutoff=1e-10, single_alpha=True)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 395, in bootstrap_ridge
+    logger=logger)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 285, in ridge_corr
+    logger.info(log_msg)
+Message: 'Training: alpha=1000.000, mean corr=0.07747, max corr=0.28781, over-under(0.20)=14'
+Arguments: ()
+INFO:counter:1/1 items complete (1339.38 seconds/item, 00:00:00 remaining)
+--- Logging error ---
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1029, in emit
+    self.flush()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1009, in flush
+    self.stream.flush()
+OSError: [Errno 122] Disk quota exceeded
+Call stack:
+  File "sub3_T.py", line 109, in <module>
+    singcutoff=1e-10, single_alpha=True)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 377, in bootstrap_ridge
+    for bi in counter(range(nboots), countevery=1, total=nboots):
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge_utils.py", line 205, in counter
+    logger.info(formatted_str)
+Message: '1/1 items complete (1339.38 seconds/item, 00:00:00 remaining)'
+Arguments: ()
+INFO:ridge_corr:Finding single best alpha..
+--- Logging error ---
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1029, in emit
+    self.flush()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1009, in flush
+    self.stream.flush()
+OSError: [Errno 122] Disk quota exceeded
+Call stack:
+  File "sub3_T.py", line 109, in <module>
+    singcutoff=1e-10, single_alpha=True)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 425, in bootstrap_ridge
+    logger.info("Finding single best alpha..")
+Message: 'Finding single best alpha..'
+Arguments: ()
+INFO:ridge_corr:Best alpha = 464.159
+--- Logging error ---
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1029, in emit
+    self.flush()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1009, in flush
+    self.stream.flush()
+OSError: [Errno 122] Disk quota exceeded
+Call stack:
+  File "sub3_T.py", line 109, in <module>
+    singcutoff=1e-10, single_alpha=True)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 440, in bootstrap_ridge
+    logger.info("Best alpha = %0.3f"%bestalpha)
+Message: 'Best alpha = 464.159'
+Arguments: ()
+INFO:ridge_corr:Computing weights for each response using entire training set..
+--- Logging error ---
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1029, in emit
+    self.flush()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/python/3.7.7/lib/python3.7/logging/__init__.py", line 1009, in flush
+    self.stream.flush()
+OSError: [Errno 122] Disk quota exceeded
+Call stack:
+  File "sub3_T.py", line 109, in <module>
+    singcutoff=1e-10, single_alpha=True)
+  File "/lustre03/project/6003287/sana4471/movie_decoding_sa/models2/Subject3/Important/ridge.py", line 444, in bootstrap_ridge
+    logger.info("Computing weights for each response using entire training set..")
+Message: 'Computing weights for each response using entire training set..'
+Arguments: ()
+INFO:ridge_corr:Predicting responses for predictions set..
+Xx_T.shape (39594, 12000)
+Label_T.shape (39594, 444)
+(733, 2000) (733, 2000) (733, 2000) (733, 2000) (733, 2000) (733, 2000)
+Xx_test.shape and label_test.shape (733, 12000) (733, 444)
+Traceback (most recent call last):
+  File "sub3_T.py", line 112, in <module>
+    np.save('wt.npy', wt)
+  File "<__array_function__ internals>", line 6, in save
+  File "/home/sana4471/.local/lib/python3.7/site-packages/numpy/lib/npyio.py", line 530, in save
+    pickle_kwargs=dict(fix_imports=fix_imports))
+  File "/home/sana4471/.local/lib/python3.7/site-packages/numpy/lib/format.py", line 687, in write_array
+    array.tofile(fp)
+OSError: 5328000 requested and 524784 written

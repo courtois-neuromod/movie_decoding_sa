@@ -1,0 +1,15 @@
+<class 'numpy.ndarray'> <class 'numpy.ndarray'>
+Traceback (most recent call last):
+  File "Bootstrap_Ridge.py", line 10, in <module>
+    x_train,x_test, y_train, y_test = train_test_split(X, y, test_size=0.1)
+  File "/home/sana4471/.local/lib/python3.7/site-packages/sklearn/model_selection/_split.py", line 2172, in train_test_split
+    arrays = indexable(*arrays)
+  File "/home/sana4471/.local/lib/python3.7/site-packages/sklearn/utils/validation.py", line 299, in indexable
+    check_consistent_length(*result)
+  File "/home/sana4471/.local/lib/python3.7/site-packages/sklearn/utils/validation.py", line 259, in check_consistent_length
+    lengths = [_num_samples(X) for X in arrays if X is not None]
+  File "/home/sana4471/.local/lib/python3.7/site-packages/sklearn/utils/validation.py", line 259, in <listcomp>
+    lengths = [_num_samples(X) for X in arrays if X is not None]
+  File "/home/sana4471/.local/lib/python3.7/site-packages/sklearn/utils/validation.py", line 203, in _num_samples
+    " a valid collection." % x)
+TypeError: Singleton array array(PCA(n_components=1500), dtype=object) cannot be considered a valid collection.

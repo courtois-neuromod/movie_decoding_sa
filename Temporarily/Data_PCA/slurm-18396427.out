@@ -1,0 +1,8 @@
+<class 'numpy.ndarray'> <class 'numpy.ndarray'>
+Sanajoon
+(35441, 1500)
+(35441, 1500) (3938, 1500) (35441, 444) (3938, 444)
+Traceback (most recent call last):
+  File "Bootstrap_Ridge.py", line 21, in <module>
+    from ridge import bootstrap_ridge
+ImportError: cannot import name 'bootstrap_ridge' from 'ridge' (/home/sana4471/.local/lib/python3.7/site-packages/ridge/__init__.py)

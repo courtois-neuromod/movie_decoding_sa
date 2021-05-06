@@ -1,0 +1,26 @@
+INFO:ridge_corr:Selecting held-out test set..
+INFO:ridge_corr:Doing SVD...
+INFO:ridge_corr:Dropped 0 tiny singular values.. (U is now (34641, 1500))
+INFO:ridge_corr:Training stimulus has LSV norm: 2349.987
+INFO:ridge_corr:Average difference between actual & assumed Prespvar: 0.000
+INFO:ridge_corr:Training: alpha=1.000, mean corr=0.03063, max corr=0.33088, over-under(0.20)=1
+INFO:ridge_corr:Training: alpha=1.668, mean corr=0.03063, max corr=0.33089, over-under(0.20)=1
+INFO:ridge_corr:Training: alpha=2.783, mean corr=0.03063, max corr=0.33094, over-under(0.20)=1
+INFO:ridge_corr:Training: alpha=4.642, mean corr=0.03064, max corr=0.33106, over-under(0.20)=1
+INFO:ridge_corr:Training: alpha=7.743, mean corr=0.03067, max corr=0.33140, over-under(0.20)=1
+INFO:ridge_corr:Training: alpha=12.915, mean corr=0.03076, max corr=0.33231, over-under(0.20)=1
+INFO:ridge_corr:Training: alpha=21.544, mean corr=0.03097, max corr=0.33455, over-under(0.20)=2
+INFO:ridge_corr:Training: alpha=35.938, mean corr=0.03144, max corr=0.33910, over-under(0.20)=2
+INFO:ridge_corr:Training: alpha=59.948, mean corr=0.03218, max corr=0.34459, over-under(0.20)=3
+INFO:ridge_corr:Training: alpha=100.000, mean corr=0.03275, max corr=0.34376, over-under(0.20)=3
+INFO:counter:1/1 items complete (20.20 seconds/item, 00:00:00 remaining)
+INFO:ridge_corr:Finding single best alpha..
+INFO:ridge_corr:Best alpha = 100.000
+INFO:ridge_corr:Computing weights for each response using entire training set..
+INFO:ridge_corr:Predicting responses for predictions set..
+(35441, 1500) (3938, 1500) (35441, 444) (3938, 444)
+(1500, 444)
+Traceback (most recent call last):
+  File "Bootstrap_Ridge.py", line 34, in <module>
+    import npp
+ModuleNotFoundError: No module named 'npp'
