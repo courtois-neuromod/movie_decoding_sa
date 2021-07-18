@@ -1,0 +1,27 @@
+Sana
+blas_info:
+    libraries = ['cblas', 'blas', 'cblas', 'blas']
+    library_dirs = ['/opt/conda/lib']
+    include_dirs = ['/opt/conda/include']
+    language = c
+    define_macros = [('HAVE_CBLAS', None)]
+blas_opt_info:
+    define_macros = [('NO_ATLAS_INFO', 1), ('HAVE_CBLAS', None)]
+    libraries = ['cblas', 'blas', 'cblas', 'blas']
+    library_dirs = ['/opt/conda/lib']
+    include_dirs = ['/opt/conda/include']
+    language = c
+lapack_info:
+    libraries = ['lapack', 'blas', 'lapack', 'blas']
+    library_dirs = ['/opt/conda/lib']
+    language = f77
+lapack_opt_info:
+    libraries = ['lapack', 'blas', 'lapack', 'blas', 'cblas', 'blas', 'cblas', 'blas']
+    library_dirs = ['/opt/conda/lib']
+    language = c
+    define_macros = [('NO_ATLAS_INFO', 1), ('HAVE_CBLAS', None)]
+    include_dirs = ['/opt/conda/include']
+(43999, 4096) (43999, 444)
+(39599, 4096) (4400, 4096) (39599, 444) (4400, 444)
+**********************************Training time: 168.85437774658203s
+(444,)
