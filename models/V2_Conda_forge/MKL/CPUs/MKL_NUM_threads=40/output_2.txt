@@ -1,0 +1,25 @@
+Sana
+blas_mkl_info:
+    libraries = ['blas', 'cblas', 'lapack', 'pthread', 'blas', 'cblas', 'lapack']
+    library_dirs = ['/opt/conda/lib']
+    define_macros = [('SCIPY_MKL_H', None), ('HAVE_CBLAS', None)]
+    include_dirs = ['/opt/conda/include']
+blas_opt_info:
+    libraries = ['blas', 'cblas', 'lapack', 'pthread', 'blas', 'cblas', 'lapack', 'blas', 'cblas', 'lapack']
+    library_dirs = ['/opt/conda/lib']
+    define_macros = [('SCIPY_MKL_H', None), ('HAVE_CBLAS', None)]
+    include_dirs = ['/opt/conda/include']
+lapack_mkl_info:
+    libraries = ['blas', 'cblas', 'lapack', 'pthread', 'blas', 'cblas', 'lapack']
+    library_dirs = ['/opt/conda/lib']
+    define_macros = [('SCIPY_MKL_H', None), ('HAVE_CBLAS', None)]
+    include_dirs = ['/opt/conda/include']
+lapack_opt_info:
+    libraries = ['blas', 'cblas', 'lapack', 'pthread', 'blas', 'cblas', 'lapack', 'blas', 'cblas', 'lapack']
+    library_dirs = ['/opt/conda/lib']
+    define_macros = [('SCIPY_MKL_H', None), ('HAVE_CBLAS', None)]
+    include_dirs = ['/opt/conda/include']
+(43999, 4096) (43999, 444)
+(39599, 4096) (4400, 4096) (39599, 444) (4400, 444)
+**********************************Training time: 427.15053606033325s
+(444,)
