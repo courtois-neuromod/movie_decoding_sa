@@ -1,0 +1,1094 @@
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        0.11%     6.045GiB / 15.39GiB   39.28%    2.03kB / 0B      2.15MB / 0B   1
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        0.11%     6.045GiB / 15.39GiB   39.28%    2.03kB / 0B      2.15MB / 0B   1
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        97.32%    6.787GiB / 15.39GiB   44.10%    2.13kB / 0B      2.15MB / 0B   1
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        97.32%    6.787GiB / 15.39GiB   44.10%    2.13kB / 0B      2.15MB / 0B   1
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        426.75%   6.796GiB / 15.39GiB   44.16%    2.42kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        426.75%   6.796GiB / 15.39GiB   44.16%    2.42kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        750.91%   6.797GiB / 15.39GiB   44.17%    2.42kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        750.91%   6.797GiB / 15.39GiB   44.17%    2.42kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        708.36%   6.797GiB / 15.39GiB   44.17%    2.42kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        708.36%   6.797GiB / 15.39GiB   44.17%    2.42kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        765.22%   6.797GiB / 15.39GiB   44.17%    2.52kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.18%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        765.22%   6.797GiB / 15.39GiB   44.17%    2.52kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.18%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        688.76%   6.798GiB / 15.39GiB   44.17%    2.52kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        688.76%   6.798GiB / 15.39GiB   44.17%    2.52kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        770.11%   6.798GiB / 15.39GiB   44.17%    2.52kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        770.11%   6.798GiB / 15.39GiB   44.17%    2.52kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        748.68%   6.798GiB / 15.39GiB   44.17%    2.52kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        748.68%   6.798GiB / 15.39GiB   44.17%    2.52kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        776.57%   6.798GiB / 15.39GiB   44.17%    2.52kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.24%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        776.57%   6.798GiB / 15.39GiB   44.17%    2.52kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.24%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        790.14%   6.798GiB / 15.39GiB   44.17%    2.52kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        790.14%   6.798GiB / 15.39GiB   44.17%    2.52kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        785.36%   6.798GiB / 15.39GiB   44.17%    2.59kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.19%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        785.36%   6.798GiB / 15.39GiB   44.17%    2.59kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.19%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        785.41%   6.798GiB / 15.39GiB   44.17%    2.59kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        785.41%   6.798GiB / 15.39GiB   44.17%    2.59kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        745.07%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        745.07%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        752.86%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        752.86%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        754.04%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        754.04%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.58%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.58%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        789.06%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        789.06%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        748.03%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        748.03%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        745.80%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        745.80%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        710.51%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        710.51%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        749.60%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        749.60%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        689.98%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        689.98%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        766.97%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.22%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        766.97%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.22%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        787.99%   6.799GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        787.99%   6.799GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        791.08%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        791.08%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        786.05%   6.799GiB / 15.39GiB   44.18%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        786.05%   6.799GiB / 15.39GiB   44.18%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        786.85%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        786.85%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        786.57%   6.799GiB / 15.39GiB   44.18%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        786.57%   6.799GiB / 15.39GiB   44.18%    2.7kB / 0B       2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        781.42%   6.799GiB / 15.39GiB   44.17%    2.81kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        781.42%   6.799GiB / 15.39GiB   44.17%    2.81kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        793.21%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        793.21%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.04%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.04%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        785.17%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        785.17%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        782.70%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        782.70%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        741.76%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        741.76%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        721.05%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        721.05%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        788.03%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.20%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        788.03%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.20%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        789.73%   6.8GiB / 15.39GiB     44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        789.73%   6.8GiB / 15.39GiB     44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        784.50%   6.8GiB / 15.39GiB     44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        784.50%   6.8GiB / 15.39GiB     44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        784.01%   6.8GiB / 15.39GiB     44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.19%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        784.01%   6.8GiB / 15.39GiB     44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.19%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        790.34%   6.8GiB / 15.39GiB     44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        790.34%   6.8GiB / 15.39GiB     44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        790.34%   6.8GiB / 15.39GiB     44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        791.15%   6.8GiB / 15.39GiB     44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        791.15%   6.8GiB / 15.39GiB     44.18%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        788.20%   6.8GiB / 15.39GiB     44.19%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        788.20%   6.8GiB / 15.39GiB     44.19%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.86%   6.8GiB / 15.39GiB     44.19%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.86%   6.8GiB / 15.39GiB     44.19%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        791.41%   6.801GiB / 15.39GiB   44.19%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        791.41%   6.801GiB / 15.39GiB   44.19%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        793.96%   6.801GiB / 15.39GiB   44.19%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        793.96%   6.801GiB / 15.39GiB   44.19%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        770.59%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        770.59%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.66%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.66%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        789.01%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        789.01%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        784.74%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        784.74%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        788.59%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        788.59%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        793.55%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.20%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        793.55%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.20%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        786.24%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        786.24%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        790.58%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        790.58%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.41%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.41%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        785.82%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        785.82%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        790.82%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        790.82%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        791.74%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        791.74%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        750.29%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        750.29%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        786.05%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        786.05%   6.926GiB / 15.39GiB   45.00%    2.88kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.49%   6.926GiB / 15.39GiB   45.00%    2.98kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.49%   6.926GiB / 15.39GiB   45.00%    2.98kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.29%   6.926GiB / 15.39GiB   45.00%    2.98kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.29%   6.926GiB / 15.39GiB   45.00%    2.98kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        791.75%   6.926GiB / 15.39GiB   45.00%    2.98kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        791.75%   6.926GiB / 15.39GiB   45.00%    2.98kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        787.40%   6.926GiB / 15.39GiB   45.00%    2.98kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.19%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        787.40%   6.926GiB / 15.39GiB   45.00%    2.98kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.19%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        791.05%   6.926GiB / 15.39GiB   45.00%    2.98kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        791.05%   6.926GiB / 15.39GiB   45.00%    2.98kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        790.39%   6.926GiB / 15.39GiB   45.00%    2.98kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        790.39%   6.926GiB / 15.39GiB   45.00%    2.98kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        790.37%   6.926GiB / 15.39GiB   45.00%    2.98kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        790.37%   6.926GiB / 15.39GiB   45.00%    2.98kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        782.50%   6.926GiB / 15.39GiB   45.00%    2.98kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.20%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        782.50%   6.926GiB / 15.39GiB   45.00%    2.98kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.20%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        785.77%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        785.77%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        786.73%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        786.73%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        791.70%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        791.70%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        787.30%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        787.30%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        786.48%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        786.48%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.66%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.23%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.66%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.23%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        782.50%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        782.50%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        798.86%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        798.86%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        786.81%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        786.81%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        713.95%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        713.95%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.13MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        657.52%   6.925GiB / 15.39GiB   44.99%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        657.52%   6.925GiB / 15.39GiB   44.99%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        657.52%   6.925GiB / 15.39GiB   44.99%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        672.61%   6.925GiB / 15.39GiB   44.99%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        672.61%   6.925GiB / 15.39GiB   44.99%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        769.23%   6.925GiB / 15.39GiB   44.99%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        769.23%   6.925GiB / 15.39GiB   44.99%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        768.96%   6.925GiB / 15.39GiB   44.99%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        768.96%   6.925GiB / 15.39GiB   44.99%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        768.63%   6.925GiB / 15.39GiB   44.99%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        768.63%   6.925GiB / 15.39GiB   44.99%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        771.50%   6.925GiB / 15.39GiB   44.99%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        771.50%   6.925GiB / 15.39GiB   44.99%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        765.20%   6.925GiB / 15.39GiB   44.99%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.15%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        765.20%   6.925GiB / 15.39GiB   44.99%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.15%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        780.74%   6.925GiB / 15.39GiB   44.99%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        780.74%   6.925GiB / 15.39GiB   44.99%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        772.50%   6.925GiB / 15.39GiB   44.99%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        772.50%   6.925GiB / 15.39GiB   44.99%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        771.72%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        771.72%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        755.45%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.28%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        755.45%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.28%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        759.37%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.26%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        759.37%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.26%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        770.66%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        770.66%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        771.80%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        771.80%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        762.11%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.14%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        762.11%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.14%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        776.08%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        776.08%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        771.10%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.22%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        771.10%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.22%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        765.37%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.24%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        765.37%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.24%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        773.39%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        773.39%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        776.10%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.21%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        776.10%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.21%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        776.28%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.24%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        776.28%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.24%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        787.52%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        787.52%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        781.74%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.28%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        781.74%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.28%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        778.70%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.25%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        778.70%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.25%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        758.63%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        758.63%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        783.03%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.20%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        783.03%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.20%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        784.45%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.18%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        784.45%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.18%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        785.39%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        785.39%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        728.54%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        728.54%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        758.61%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.21%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        758.61%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.21%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        736.45%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        736.45%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        736.45%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        756.59%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        756.59%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        765.15%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.28%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        765.15%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.28%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        749.46%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        749.46%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        738.19%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        738.19%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        751.84%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        751.84%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        764.18%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        764.18%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        722.03%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.14%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        722.03%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.14%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        763.97%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.20%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        763.97%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.20%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        707.02%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        707.02%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      2.15MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        770.52%   6.974GiB / 15.39GiB   45.32%    3.05kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.13%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        770.52%   6.974GiB / 15.39GiB   45.32%    3.05kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.13%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        489.27%   7.1GiB / 15.39GiB   46.13%    3.05kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        489.27%   7.1GiB / 15.39GiB   46.13%    3.05kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        383.20%   7.245GiB / 15.39GiB   47.08%    3.05kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        383.20%   7.245GiB / 15.39GiB   47.08%    3.05kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        740.68%   7.245GiB / 15.39GiB   47.08%    3.05kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        740.68%   7.245GiB / 15.39GiB   47.08%    3.05kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        788.81%   7.245GiB / 15.39GiB   47.08%    3.05kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        788.81%   7.245GiB / 15.39GiB   47.08%    3.05kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        789.73%   7.245GiB / 15.39GiB   47.08%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        789.73%   7.245GiB / 15.39GiB   47.08%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        790.54%   7.245GiB / 15.39GiB   47.08%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        790.54%   7.245GiB / 15.39GiB   47.08%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        791.27%   7.245GiB / 15.39GiB   47.08%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        791.27%   7.245GiB / 15.39GiB   47.08%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        788.24%   7.245GiB / 15.39GiB   47.07%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        788.24%   7.245GiB / 15.39GiB   47.07%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        781.53%   7.245GiB / 15.39GiB   47.07%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        781.53%   7.245GiB / 15.39GiB   47.07%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        790.14%   7.245GiB / 15.39GiB   47.07%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        790.14%   7.245GiB / 15.39GiB   47.07%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        790.49%   7.245GiB / 15.39GiB   47.07%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        790.49%   7.245GiB / 15.39GiB   47.07%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        794.03%   7.245GiB / 15.39GiB   47.07%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        794.03%   7.245GiB / 15.39GiB   47.07%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        787.90%   7.245GiB / 15.39GiB   47.07%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        787.90%   7.245GiB / 15.39GiB   47.07%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.83%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.83%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        790.22%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        790.22%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        793.04%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        793.04%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        793.96%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        793.96%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        787.73%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        787.73%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        791.32%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        791.32%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        789.53%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        789.53%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        793.44%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        793.44%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.24%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.24%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        795.41%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        795.41%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        791.85%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        791.85%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        791.88%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        791.88%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        793.30%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        793.30%   7.247GiB / 15.39GiB   47.09%    3.16kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        794.90%   7.247GiB / 15.39GiB   47.09%    3.23kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        794.90%   7.247GiB / 15.39GiB   47.09%    3.23kB / 0B      2.16MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        793.53%   5.605GiB / 15.39GiB   36.42%    3.23kB / 0B      2.22MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        793.53%   5.605GiB / 15.39GiB   36.42%    3.23kB / 0B      2.22MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        786.84%   5.605GiB / 15.39GiB   36.42%    3.23kB / 0B      2.22MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        786.84%   5.605GiB / 15.39GiB   36.42%    3.23kB / 0B      2.22MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        784.70%   4.482GiB / 15.39GiB   29.12%    3.23kB / 0B      2.36MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        784.70%   4.482GiB / 15.39GiB   29.12%    3.23kB / 0B      2.36MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        702.51%   5.342GiB / 15.39GiB   34.71%    3.23kB / 0B      2.37MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        702.51%   5.342GiB / 15.39GiB   34.71%    3.23kB / 0B      2.37MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        450.31%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        450.31%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        801.51%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        801.51%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        319.57%   4.613GiB / 15.39GiB   29.97%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        319.57%   4.613GiB / 15.39GiB   29.97%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        319.57%   4.613GiB / 15.39GiB   29.97%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.67%   4.745GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.67%   4.745GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        566.67%   6.761GiB / 15.39GiB   43.93%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        566.67%   6.761GiB / 15.39GiB   43.93%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        613.25%   4.745GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        613.25%   4.745GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.33%   4.967GiB / 15.39GiB   32.28%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        792.33%   4.967GiB / 15.39GiB   32.28%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        387.86%   4.745GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        387.86%   4.745GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        786.72%   4.745GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        786.72%   4.745GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        402.14%   4.661GiB / 15.39GiB   30.29%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        402.14%   4.661GiB / 15.39GiB   30.29%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        789.74%   4.745GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        789.74%   4.745GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        546.51%   6.935GiB / 15.39GiB   45.06%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        546.51%   6.935GiB / 15.39GiB   45.06%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        639.95%   4.745GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        639.95%   4.745GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        765.35%   5.216GiB / 15.39GiB   33.89%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        765.35%   5.216GiB / 15.39GiB   33.89%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        416.47%   4.745GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        416.47%   4.745GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        797.24%   4.745GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        797.24%   4.745GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        391.96%   4.745GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        391.96%   4.745GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        788.29%   4.745GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.12%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        788.29%   4.745GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.12%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        510.82%   7.162GiB / 15.39GiB   46.54%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        510.82%   7.162GiB / 15.39GiB   46.54%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        672.43%   4.745GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        672.43%   4.745GiB / 15.39GiB   30.83%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        733.50%   5.441GiB / 15.39GiB   35.35%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        733.50%   5.441GiB / 15.39GiB   35.35%    3.23kB / 0B      2.42MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        445.79%   4.613GiB / 15.39GiB   29.98%    3.23kB / 0B      2.43MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        445.79%   4.613GiB / 15.39GiB   29.98%    3.23kB / 0B      2.43MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        795.50%   4.613GiB / 15.39GiB   29.98%    3.23kB / 0B      2.43MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+368de72953e6   trusting_fermat        795.50%   4.613GiB / 15.39GiB   29.98%    3.23kB / 0B      2.43MB / 0B   8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB      0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.11%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.11%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.14%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.14%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.12%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.12%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.15%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.15%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.14%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.14%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2

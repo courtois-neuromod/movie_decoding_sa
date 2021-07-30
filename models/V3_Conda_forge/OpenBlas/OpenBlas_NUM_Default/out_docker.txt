@@ -1,0 +1,1027 @@
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           1.20%     6.797GiB / 15.39GiB   44.17%    2.52kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     25.89MiB / 15.39GiB   0.16%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           745.65%   6.797GiB / 15.39GiB   44.16%    2.52kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     25.89MiB / 15.39GiB   0.16%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           745.65%   6.797GiB / 15.39GiB   44.16%    2.52kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     25.89MiB / 15.39GiB   0.16%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           745.65%   6.797GiB / 15.39GiB   44.16%    2.52kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     25.89MiB / 15.39GiB   0.16%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           759.95%   6.797GiB / 15.39GiB   44.16%    2.52kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     25.89MiB / 15.39GiB   0.16%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           759.95%   6.797GiB / 15.39GiB   44.16%    2.52kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     25.89MiB / 15.39GiB   0.16%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           761.44%   6.797GiB / 15.39GiB   44.16%    2.52kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.19%     25.89MiB / 15.39GiB   0.16%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           761.44%   6.797GiB / 15.39GiB   44.16%    2.52kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.19%     25.89MiB / 15.39GiB   0.16%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           776.96%   6.798GiB / 15.39GiB   44.17%    2.59kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     25.89MiB / 15.39GiB   0.16%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           776.96%   6.798GiB / 15.39GiB   44.17%    2.59kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     25.89MiB / 15.39GiB   0.16%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           781.53%   6.797GiB / 15.39GiB   44.17%    2.59kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     25.89MiB / 15.39GiB   0.16%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           781.53%   6.797GiB / 15.39GiB   44.17%    2.59kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     25.89MiB / 15.39GiB   0.16%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           766.31%   6.797GiB / 15.39GiB   44.17%    2.59kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     25.89MiB / 15.39GiB   0.16%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           766.31%   6.797GiB / 15.39GiB   44.17%    2.59kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     25.89MiB / 15.39GiB   0.16%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           743.97%   6.797GiB / 15.39GiB   44.17%    2.59kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     25.89MiB / 15.39GiB   0.16%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           743.97%   6.797GiB / 15.39GiB   44.17%    2.59kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     25.89MiB / 15.39GiB   0.16%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           754.57%   6.797GiB / 15.39GiB   44.17%    2.7kB / 0B       0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     25.89MiB / 15.39GiB   0.16%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           754.57%   6.797GiB / 15.39GiB   44.17%    2.7kB / 0B       0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     25.89MiB / 15.39GiB   0.16%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           757.04%   6.797GiB / 15.39GiB   44.16%    2.7kB / 0B       0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.30%     26.43MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           757.04%   6.797GiB / 15.39GiB   44.16%    2.7kB / 0B       0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.30%     26.43MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.70%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.70%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           789.95%   6.797GiB / 15.39GiB   44.17%    2.7kB / 0B       0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           789.95%   6.797GiB / 15.39GiB   44.17%    2.7kB / 0B       0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           730.35%   6.797GiB / 15.39GiB   44.17%    2.7kB / 0B       0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           730.35%   6.797GiB / 15.39GiB   44.17%    2.7kB / 0B       0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           755.30%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           755.30%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           738.32%   6.797GiB / 15.39GiB   44.17%    2.7kB / 0B       0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           738.32%   6.797GiB / 15.39GiB   44.17%    2.7kB / 0B       0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           756.19%   6.797GiB / 15.39GiB   44.17%    2.7kB / 0B       0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           756.19%   6.797GiB / 15.39GiB   44.17%    2.7kB / 0B       0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           754.24%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           754.24%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           773.55%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           773.55%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           720.74%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           720.74%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           721.99%   6.798GiB / 15.39GiB   44.17%    2.77kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.18%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           721.99%   6.798GiB / 15.39GiB   44.17%    2.77kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.18%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           735.87%   6.798GiB / 15.39GiB   44.17%    2.77kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           735.87%   6.798GiB / 15.39GiB   44.17%    2.77kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           775.12%   6.798GiB / 15.39GiB   44.17%    2.77kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           775.12%   6.798GiB / 15.39GiB   44.17%    2.77kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           786.53%   6.798GiB / 15.39GiB   44.17%    2.77kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           786.53%   6.798GiB / 15.39GiB   44.17%    2.77kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           786.27%   6.798GiB / 15.39GiB   44.17%    2.77kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           786.27%   6.798GiB / 15.39GiB   44.17%    2.77kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.97%   6.798GiB / 15.39GiB   44.17%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.97%   6.798GiB / 15.39GiB   44.17%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.21%   6.798GiB / 15.39GiB   44.17%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.21%   6.798GiB / 15.39GiB   44.17%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           786.69%   6.798GiB / 15.39GiB   44.17%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           786.69%   6.798GiB / 15.39GiB   44.17%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           790.06%   6.798GiB / 15.39GiB   44.17%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           790.06%   6.798GiB / 15.39GiB   44.17%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           788.73%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           788.73%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           794.38%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           794.38%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           744.07%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           744.07%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           713.97%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           713.97%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           719.46%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           719.46%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           736.07%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.14%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           736.07%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.14%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           736.07%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           714.48%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           714.48%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           730.10%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           730.10%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           776.03%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           776.03%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           780.51%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.23%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           780.51%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.23%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           790.24%   6.8GiB / 15.39GiB     44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           790.24%   6.8GiB / 15.39GiB     44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           793.20%   6.8GiB / 15.39GiB     44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           793.20%   6.8GiB / 15.39GiB     44.18%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           790.60%   6.8GiB / 15.39GiB     44.19%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           790.60%   6.8GiB / 15.39GiB     44.19%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           788.91%   6.8GiB / 15.39GiB     44.19%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           788.91%   6.8GiB / 15.39GiB     44.19%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           788.83%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           788.83%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           795.06%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           795.06%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           785.63%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.19%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           785.63%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.19%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           790.48%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           790.48%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           783.10%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.20%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           783.10%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.20%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           726.40%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           726.40%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           746.12%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           746.12%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           772.89%   6.925GiB / 15.39GiB   45.00%    2.95kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           772.89%   6.925GiB / 15.39GiB   45.00%    2.95kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           795.18%   6.925GiB / 15.39GiB   45.00%    2.95kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           795.18%   6.925GiB / 15.39GiB   45.00%    2.95kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.33%   6.925GiB / 15.39GiB   45.00%    2.95kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.33%   6.925GiB / 15.39GiB   45.00%    2.95kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           781.49%   6.925GiB / 15.39GiB   45.00%    2.95kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           781.49%   6.925GiB / 15.39GiB   45.00%    2.95kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           788.92%   6.925GiB / 15.39GiB   45.00%    2.95kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           788.92%   6.925GiB / 15.39GiB   45.00%    2.95kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           793.59%   6.925GiB / 15.39GiB   45.00%    2.95kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           793.59%   6.925GiB / 15.39GiB   45.00%    2.95kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.21%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.21%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           782.74%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           782.74%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           798.77%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           798.77%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           786.38%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           786.38%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.18%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.18%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           785.67%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           785.67%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           787.08%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           787.08%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           783.47%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           783.47%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           793.01%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           793.01%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           788.95%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           788.95%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           782.27%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           782.27%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           798.96%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           798.96%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           785.75%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.21%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           785.75%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.21%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.69%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.69%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.67%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.67%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           788.83%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           788.83%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           759.50%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.21%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           759.50%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.21%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           781.17%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           781.17%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           781.17%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.28%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.28%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           787.36%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           787.36%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           793.77%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           793.77%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           781.19%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           781.19%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           801.72%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           801.72%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           789.07%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           789.07%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           789.90%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           789.90%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.66%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.66%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.90%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.90%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           785.16%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           785.16%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           784.59%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.28%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           784.59%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.28%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           769.93%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.21%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           769.93%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.21%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           754.42%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           754.42%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           779.78%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.28%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           779.78%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.28%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           755.84%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.24%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           755.84%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.24%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           758.69%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           758.69%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           751.68%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.18%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           751.68%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.18%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           734.24%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.15%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           734.24%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.15%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           740.21%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           740.21%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           749.32%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.24%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           749.32%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.24%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           754.32%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.25%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           754.32%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.25%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           717.09%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           717.09%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           750.64%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.15%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           750.64%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.15%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           753.51%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.24%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           753.51%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.24%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           729.29%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           729.29%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           732.99%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.12%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           732.99%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.12%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           756.95%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.14%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           756.95%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.14%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           727.65%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           727.65%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           755.03%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.13%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           755.03%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.13%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           755.03%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.24%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           754.96%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.24%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           754.96%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.24%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           779.55%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           779.55%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           786.58%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.28%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           786.58%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.28%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           778.31%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.22%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           778.31%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.22%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           782.19%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           782.19%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           783.50%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.25%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           783.50%   6.927GiB / 15.39GiB   45.01%    3.05kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.25%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           786.06%   6.927GiB / 15.39GiB   45.01%    3.12kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.25%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           786.06%   6.927GiB / 15.39GiB   45.01%    3.12kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.25%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           783.12%   6.927GiB / 15.39GiB   45.01%    3.12kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           783.12%   6.927GiB / 15.39GiB   45.01%    3.12kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           782.40%   6.927GiB / 15.39GiB   45.01%    3.12kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           782.40%   6.927GiB / 15.39GiB   45.01%    3.12kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           777.27%   6.927GiB / 15.39GiB   45.01%    3.12kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           777.27%   6.927GiB / 15.39GiB   45.01%    3.12kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           788.68%   6.927GiB / 15.39GiB   45.01%    3.12kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           788.68%   6.927GiB / 15.39GiB   45.01%    3.12kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           793.60%   6.927GiB / 15.39GiB   45.01%    3.12kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           793.60%   6.927GiB / 15.39GiB   45.01%    3.12kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           773.16%   7.006GiB / 15.39GiB   45.52%    3.12kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           773.16%   7.006GiB / 15.39GiB   45.52%    3.12kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           549.59%   7.246GiB / 15.39GiB   47.08%    3.12kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           549.59%   7.246GiB / 15.39GiB   47.08%    3.12kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           789.27%   7.246GiB / 15.39GiB   47.08%    3.12kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           789.27%   7.246GiB / 15.39GiB   47.08%    3.12kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           794.00%   7.246GiB / 15.39GiB   47.08%    3.12kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.11%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           794.00%   7.246GiB / 15.39GiB   47.08%    3.12kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.11%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           787.67%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           787.67%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           795.22%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           795.22%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           785.87%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           785.87%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           783.27%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           783.27%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.24%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.24%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.39%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.39%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           794.17%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.11%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           794.17%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.11%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.47%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.47%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.36%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.11%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.36%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.11%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           789.27%   7.248GiB / 15.39GiB   47.10%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           789.27%   7.248GiB / 15.39GiB   47.10%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           795.16%   7.248GiB / 15.39GiB   47.10%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           795.16%   7.248GiB / 15.39GiB   47.10%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           790.84%   7.248GiB / 15.39GiB   47.10%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           790.84%   7.248GiB / 15.39GiB   47.10%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           762.40%   7.248GiB / 15.39GiB   47.10%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           762.40%   7.248GiB / 15.39GiB   47.10%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           785.33%   7.248GiB / 15.39GiB   47.09%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           785.33%   7.248GiB / 15.39GiB   47.09%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           793.10%   7.248GiB / 15.39GiB   47.09%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           793.10%   7.248GiB / 15.39GiB   47.09%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.16%   7.248GiB / 15.39GiB   47.09%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.16%   7.248GiB / 15.39GiB   47.09%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           789.10%   7.248GiB / 15.39GiB   47.09%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           789.10%   7.248GiB / 15.39GiB   47.09%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           790.32%   7.248GiB / 15.39GiB   47.09%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           790.32%   7.248GiB / 15.39GiB   47.09%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.06%   7.248GiB / 15.39GiB   47.09%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.06%   7.248GiB / 15.39GiB   47.09%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           794.34%   7.248GiB / 15.39GiB   47.09%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           794.34%   7.248GiB / 15.39GiB   47.09%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.17%   7.248GiB / 15.39GiB   47.09%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.17%   7.248GiB / 15.39GiB   47.09%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.01%   7.248GiB / 15.39GiB   47.09%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.01%   7.248GiB / 15.39GiB   47.09%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           787.34%   5.605GiB / 15.39GiB   36.42%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           787.34%   5.605GiB / 15.39GiB   36.42%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.47%   5.605GiB / 15.39GiB   36.42%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.47%   5.605GiB / 15.39GiB   36.42%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.07%   4.481GiB / 15.39GiB   29.12%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.07%   4.481GiB / 15.39GiB   29.12%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.07%   4.481GiB / 15.39GiB   29.12%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           788.15%   4.481GiB / 15.39GiB   29.12%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           788.15%   4.481GiB / 15.39GiB   29.12%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           393.07%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           393.07%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.39%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.39%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           543.67%   6.959GiB / 15.39GiB   45.22%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           543.67%   6.959GiB / 15.39GiB   45.22%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           650.03%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           650.03%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           787.24%   5.01GiB / 15.39GiB    32.55%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           787.24%   5.01GiB / 15.39GiB    32.55%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           398.36%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           398.36%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           790.61%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           790.61%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           386.31%   4.613GiB / 15.39GiB   29.97%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           386.31%   4.613GiB / 15.39GiB   29.97%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           797.27%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           797.27%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           585.84%   6.581GiB / 15.39GiB   42.76%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           585.84%   6.581GiB / 15.39GiB   42.76%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           594.61%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           594.61%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.04%   4.793GiB / 15.39GiB   31.14%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           792.04%   4.793GiB / 15.39GiB   31.14%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           389.22%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           389.22%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           794.69%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           794.69%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           392.16%   4.613GiB / 15.39GiB   29.97%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           392.16%   4.613GiB / 15.39GiB   29.97%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           801.40%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.30%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           801.40%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.30%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           608.77%   6.393GiB / 15.39GiB   41.54%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           608.77%   6.393GiB / 15.39GiB   41.54%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           573.77%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           573.77%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           795.67%   4.875GiB / 15.39GiB   31.68%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           795.67%   4.875GiB / 15.39GiB   31.68%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           390.17%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           390.17%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.30%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           791.30%   4.744GiB / 15.39GiB   30.83%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           404.46%   4.875GiB / 15.39GiB   31.68%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           404.46%   4.875GiB / 15.39GiB   31.68%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           779.02%   4.613GiB / 15.39GiB   29.97%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.11%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           779.02%   4.613GiB / 15.39GiB   29.97%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.11%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+26c5e2feadf5   nifty_mendel           785.02%   4.613GiB / 15.39GiB   29.97%    3.23kB / 0B      0B / 0B       8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.36MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2

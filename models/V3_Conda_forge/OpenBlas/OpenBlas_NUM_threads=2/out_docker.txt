@@ -1,0 +1,919 @@
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          0.10%     5.706GiB / 15.39GiB   37.07%    2.03kB / 0B      8.96MB / 0B   1
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.43MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          0.10%     5.706GiB / 15.39GiB   37.07%    2.03kB / 0B      8.96MB / 0B   1
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.43MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          98.86%    6.794GiB / 15.39GiB   44.15%    2.03kB / 0B      9.05MB / 0B   1
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.43MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          98.86%    6.794GiB / 15.39GiB   44.15%    2.03kB / 0B      9.05MB / 0B   1
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.43MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          145.31%   6.797GiB / 15.39GiB   44.17%    2.35kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          145.31%   6.797GiB / 15.39GiB   44.17%    2.35kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.03%   6.797GiB / 15.39GiB   44.17%    2.42kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.03%   6.797GiB / 15.39GiB   44.17%    2.42kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.40%   6.797GiB / 15.39GiB   44.17%    2.42kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.40%   6.797GiB / 15.39GiB   44.17%    2.42kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.17%   6.797GiB / 15.39GiB   44.17%    2.42kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.17%   6.797GiB / 15.39GiB   44.17%    2.42kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.29%   6.797GiB / 15.39GiB   44.17%    2.52kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.29%   6.797GiB / 15.39GiB   44.17%    2.52kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.83%   6.797GiB / 15.39GiB   44.17%    2.52kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.83%   6.797GiB / 15.39GiB   44.17%    2.52kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.29%   6.797GiB / 15.39GiB   44.17%    2.52kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.29%   6.797GiB / 15.39GiB   44.17%    2.52kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.28%   6.798GiB / 15.39GiB   44.17%    2.52kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.28%   6.798GiB / 15.39GiB   44.17%    2.52kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.53%   6.798GiB / 15.39GiB   44.17%    2.52kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.53%   6.798GiB / 15.39GiB   44.17%    2.52kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.78%   6.798GiB / 15.39GiB   44.17%    2.52kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.78%   6.798GiB / 15.39GiB   44.17%    2.52kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.30%   6.798GiB / 15.39GiB   44.17%    2.59kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.30%   6.798GiB / 15.39GiB   44.17%    2.59kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.47%   6.798GiB / 15.39GiB   44.17%    2.59kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.47%   6.798GiB / 15.39GiB   44.17%    2.59kB / 0B      9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.34%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.34%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          202.04%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          202.04%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.79%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.79%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.80%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.80%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          195.59%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          195.59%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          195.17%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          195.17%   6.798GiB / 15.39GiB   44.17%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          197.76%   6.799GiB / 15.39GiB   44.18%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          197.76%   6.799GiB / 15.39GiB   44.18%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.36%   6.799GiB / 15.39GiB   44.18%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.36%   6.799GiB / 15.39GiB   44.18%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.45%   6.799GiB / 15.39GiB   44.18%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.45%   6.799GiB / 15.39GiB   44.18%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.34%   6.799GiB / 15.39GiB   44.18%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.34%   6.799GiB / 15.39GiB   44.18%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.54%   6.799GiB / 15.39GiB   44.18%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.54%   6.799GiB / 15.39GiB   44.18%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.54%   6.799GiB / 15.39GiB   44.18%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.54%   6.799GiB / 15.39GiB   44.18%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.28%   6.799GiB / 15.39GiB   44.18%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.28%   6.799GiB / 15.39GiB   44.18%    2.7kB / 0B       9.66MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.32%   6.799GiB / 15.39GiB   44.18%    2.7kB / 0B       9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.32%   6.799GiB / 15.39GiB   44.18%    2.7kB / 0B       9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.52%   6.799GiB / 15.39GiB   44.18%    2.77kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.52%   6.799GiB / 15.39GiB   44.18%    2.77kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.80%   6.799GiB / 15.39GiB   44.18%    2.77kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.80%   6.799GiB / 15.39GiB   44.18%    2.77kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.33%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.33%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.98%   6.8GiB / 15.39GiB    44.18%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.98%   6.8GiB / 15.39GiB    44.18%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.04%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.04%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.56%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.56%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.70%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.70%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.90%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.90%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.61%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.61%   6.925GiB / 15.39GiB   45.00%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.3MiB / 15.39GiB    0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.45%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.45%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.18%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.18%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.35%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.35%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.64%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.64%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.15%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.15%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.05%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.05%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.72%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.72%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.49%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.49%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.14%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.14%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.43%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.43%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.55%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.55%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.97%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.97%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.53%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.53%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.24%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.24%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.67%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.67%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.34%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.34%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.53%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.53%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.24%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.24%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.89%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.89%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.68%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.68%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.54%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.54%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.94%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.94%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          198.98%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          198.98%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.15%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.15%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.43%   6.924GiB / 15.39GiB   44.99%    2.98kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.43%   6.924GiB / 15.39GiB   44.99%    2.98kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.54%   6.924GiB / 15.39GiB   44.99%    2.98kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.54%   6.924GiB / 15.39GiB   44.99%    2.98kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.52%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.52%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.23%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.23%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.58%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.58%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.73%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.73%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.33%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.33%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.83%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.83%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.99%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.99%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          198.99%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          198.99%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.32%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.32%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          198.87%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          198.87%   6.926GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.80%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.80%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.22%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.13%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.22%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.13%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.03%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.13%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.03%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.13%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.85%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.85%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.85%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.85%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.81%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.81%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          197.22%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          197.22%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          198.70%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          198.70%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.25%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.25%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.51%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.51%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          202.04%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          202.04%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      9.85MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.91%   6.946GiB / 15.39GiB   45.13%    3.05kB / 0B      9.9MB / 0B    2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.91%   6.946GiB / 15.39GiB   45.13%    3.05kB / 0B      9.9MB / 0B    2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.17MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          176.34%   7.138GiB / 15.39GiB   46.38%    3.05kB / 0B      9.9MB / 0B    2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          176.34%   7.138GiB / 15.39GiB   46.38%    3.05kB / 0B      9.9MB / 0B    2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          150.00%   7.244GiB / 15.39GiB   47.07%    3.05kB / 0B      9.9MB / 0B    2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          150.00%   7.244GiB / 15.39GiB   47.07%    3.05kB / 0B      9.9MB / 0B    2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          195.83%   7.244GiB / 15.39GiB   47.07%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          195.83%   7.244GiB / 15.39GiB   47.07%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.28%   7.244GiB / 15.39GiB   47.07%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.28%   7.244GiB / 15.39GiB   47.07%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          195.05%   7.244GiB / 15.39GiB   47.07%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          195.05%   7.244GiB / 15.39GiB   47.07%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          198.39%   7.244GiB / 15.39GiB   47.07%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          198.39%   7.244GiB / 15.39GiB   47.07%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          197.81%   7.244GiB / 15.39GiB   47.07%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          197.81%   7.244GiB / 15.39GiB   47.07%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          196.62%   7.244GiB / 15.39GiB   47.07%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          196.62%   7.244GiB / 15.39GiB   47.07%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          194.69%   7.244GiB / 15.39GiB   47.07%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          194.69%   7.244GiB / 15.39GiB   47.07%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          193.29%   7.244GiB / 15.39GiB   47.07%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          193.29%   7.244GiB / 15.39GiB   47.07%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.88%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.88%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.79%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.79%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.04%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.04%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.78%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.78%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.79%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.79%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.53%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.53%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.03%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.03%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.53%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.53%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.78%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.78%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.78%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.54%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.54%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.54%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.54%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.33%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.33%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.28%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.28%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.98%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.98%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.78%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.78%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          198.99%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          198.99%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.28%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.28%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.98%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.98%   7.246GiB / 15.39GiB   47.08%    3.05kB / 0B      10MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.98%   5.604GiB / 15.39GiB   36.41%    3.05kB / 0B      10.3MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.98%   5.604GiB / 15.39GiB   36.41%    3.05kB / 0B      10.3MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.73%   5.604GiB / 15.39GiB   36.41%    3.05kB / 0B      10.3MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.73%   5.604GiB / 15.39GiB   36.41%    3.05kB / 0B      10.3MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.78%   5.604GiB / 15.39GiB   36.41%    3.05kB / 0B      10.3MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.78%   5.604GiB / 15.39GiB   36.41%    3.05kB / 0B      10.3MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.80%   4.481GiB / 15.39GiB   29.11%    3.05kB / 0B      10.6MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.80%   4.481GiB / 15.39GiB   29.11%    3.05kB / 0B      10.6MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.53%   4.481GiB / 15.39GiB   29.11%    3.05kB / 0B      10.6MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.53%   4.481GiB / 15.39GiB   29.11%    3.05kB / 0B      10.6MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          147.07%   5.676GiB / 15.39GiB   36.88%    3.05kB / 0B      10.9MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          147.07%   5.676GiB / 15.39GiB   36.88%    3.05kB / 0B      10.9MB / 0B   2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          193.81%   4.744GiB / 15.39GiB   30.82%    3.05kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          193.81%   4.744GiB / 15.39GiB   30.82%    3.05kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.58%   4.744GiB / 15.39GiB   30.82%    3.05kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.58%   4.744GiB / 15.39GiB   30.82%    3.05kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          144.71%   5.955GiB / 15.39GiB   38.69%    3.05kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          144.71%   5.955GiB / 15.39GiB   38.69%    3.05kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          193.91%   4.744GiB / 15.39GiB   30.82%    3.05kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          193.91%   4.744GiB / 15.39GiB   30.82%    3.05kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.54%   4.744GiB / 15.39GiB   30.82%    3.05kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.54%   4.744GiB / 15.39GiB   30.82%    3.05kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          149.12%   4.729GiB / 15.39GiB   30.73%    3.05kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          149.12%   4.729GiB / 15.39GiB   30.73%    3.05kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.06%   4.744GiB / 15.39GiB   30.82%    3.16kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.06%   4.744GiB / 15.39GiB   30.82%    3.16kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.28%   4.744GiB / 15.39GiB   30.82%    3.16kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.28%   4.744GiB / 15.39GiB   30.82%    3.16kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          149.28%   4.744GiB / 15.39GiB   30.82%    3.16kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          149.28%   4.744GiB / 15.39GiB   30.82%    3.16kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.53%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.53%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.04%   4.874GiB / 15.39GiB   31.67%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.04%   4.874GiB / 15.39GiB   31.67%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          148.98%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          148.98%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.04%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.04%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          197.18%   5.427GiB / 15.39GiB   35.26%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          197.18%   5.427GiB / 15.39GiB   35.26%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          151.61%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          151.61%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.29%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          201.29%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          184.04%   6.174GiB / 15.39GiB   40.11%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          184.04%   6.174GiB / 15.39GiB   40.11%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          164.89%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          164.89%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.04%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.04%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          170.22%   6.88GiB / 15.39GiB    44.70%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          170.22%   6.88GiB / 15.39GiB    44.70%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          177.58%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          177.58%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.54%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.54%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          157.34%   5.955GiB / 15.39GiB   38.69%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          157.34%   5.955GiB / 15.39GiB   38.69%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          190.44%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          190.44%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.79%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          199.79%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          147.20%   4.613GiB / 15.39GiB   29.97%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          147.20%   4.613GiB / 15.39GiB   29.97%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.53%   4.613GiB / 15.39GiB   29.97%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.53%   4.613GiB / 15.39GiB   29.97%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.78%   4.613GiB / 15.39GiB   29.97%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+3902e0e032c1   gifted_carver          200.78%   4.613GiB / 15.39GiB   29.97%    3.23kB / 0B      11MB / 0B     2
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.14%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.14%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.15%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.15%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.16MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2

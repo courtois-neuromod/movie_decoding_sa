@@ -1,0 +1,976 @@
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       0.07%     6.795GiB / 15.39GiB   44.15%    2.91kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.07%     29.37MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.01%     24.18MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       0.07%     6.795GiB / 15.39GiB   44.15%    2.91kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.07%     29.37MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.01%     24.18MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.34%   6.795GiB / 15.39GiB   44.15%    2.91kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.05%     29.37MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.18MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.34%   6.795GiB / 15.39GiB   44.15%    2.91kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.05%     29.37MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.18MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.55%   6.795GiB / 15.39GiB   44.15%    2.98kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.37MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.18MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.55%   6.795GiB / 15.39GiB   44.15%    2.98kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.37MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.18MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.94%   6.795GiB / 15.39GiB   44.15%    2.98kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.94%   6.795GiB / 15.39GiB   44.15%    2.98kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.27%   6.795GiB / 15.39GiB   44.15%    2.98kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.27%   6.795GiB / 15.39GiB   44.15%    2.98kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.54%   6.795GiB / 15.39GiB   44.15%    2.98kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.54%   6.795GiB / 15.39GiB   44.15%    2.98kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.98%   6.795GiB / 15.39GiB   44.15%    3.18kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.09%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.98%   6.795GiB / 15.39GiB   44.15%    3.18kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.09%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.83%   6.795GiB / 15.39GiB   44.15%    3.18kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.83%   6.795GiB / 15.39GiB   44.15%    3.18kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.34%   6.795GiB / 15.39GiB   44.15%    3.18kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.34%   6.795GiB / 15.39GiB   44.15%    3.18kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.39%   6.795GiB / 15.39GiB   44.15%    3.18kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.09%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.39%   6.795GiB / 15.39GiB   44.15%    3.18kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.09%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.28%   6.795GiB / 15.39GiB   44.15%    3.18kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.28%   6.795GiB / 15.39GiB   44.15%    3.18kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.84%   6.795GiB / 15.39GiB   44.15%    3.18kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.84%   6.795GiB / 15.39GiB   44.15%    3.18kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.98%   6.795GiB / 15.39GiB   44.15%    3.18kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.98%   6.795GiB / 15.39GiB   44.15%    3.18kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.86%   6.795GiB / 15.39GiB   44.15%    3.18kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.05%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.86%   6.795GiB / 15.39GiB   44.15%    3.18kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.05%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.82%   6.795GiB / 15.39GiB   44.15%    3.18kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.82%   6.795GiB / 15.39GiB   44.15%    3.18kB / 0B       201kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.22MiB / 15.39GiB   0.19%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.16MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.49%   6.921GiB / 15.39GiB   44.97%    3.18kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.07%     29.13MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.09MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.49%   6.921GiB / 15.39GiB   44.97%    3.18kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.07%     29.13MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.09MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.00%   6.968GiB / 15.39GiB   45.28%    3.18kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.07%     29.11MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.08MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.00%   6.968GiB / 15.39GiB   45.28%    3.18kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.07%     29.11MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.08MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.80%   6.969GiB / 15.39GiB   45.28%    3.25kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.11MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.08MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.80%   6.969GiB / 15.39GiB   45.28%    3.25kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.11MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.08MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.96%   6.971GiB / 15.39GiB   45.29%    3.25kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.11MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.08MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.96%   6.971GiB / 15.39GiB   45.29%    3.25kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.11MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.08MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.71%   6.972GiB / 15.39GiB   45.30%    3.25kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.07MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.05MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.71%   6.972GiB / 15.39GiB   45.30%    3.25kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.07MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.05MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.34%   6.972GiB / 15.39GiB   45.30%    3.25kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.34%   6.972GiB / 15.39GiB   45.30%    3.25kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.04%   6.973GiB / 15.39GiB   45.31%    3.25kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.07%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.04%   6.973GiB / 15.39GiB   45.31%    3.25kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.07%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.54%   6.974GiB / 15.39GiB   45.31%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.54%   6.974GiB / 15.39GiB   45.31%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.52%   6.974GiB / 15.39GiB   45.32%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.52%   6.974GiB / 15.39GiB   45.32%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.28%   6.975GiB / 15.39GiB   45.32%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.28%   6.975GiB / 15.39GiB   45.32%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.64%   6.976GiB / 15.39GiB   45.32%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.64%   6.976GiB / 15.39GiB   45.32%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.79%   6.976GiB / 15.39GiB   45.33%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.79%   6.976GiB / 15.39GiB   45.33%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.29%   6.976GiB / 15.39GiB   45.33%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.29%   6.976GiB / 15.39GiB   45.33%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.79%   6.968GiB / 15.39GiB   45.27%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.79%   6.968GiB / 15.39GiB   45.27%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.26%   6.968GiB / 15.39GiB   45.28%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.26%   6.968GiB / 15.39GiB   45.28%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.92%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.07%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.92%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.07%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.12%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.12%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.27%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.27%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.11%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.08%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.11%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.08%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.29%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.10%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.29%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.10%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.43%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.43%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.58%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.08%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.58%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.08%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.14%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.11%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.14%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.11%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.84%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.84%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.09%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.09%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.09%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.09%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.02%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.10%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.02%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.10%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.21%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.21%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.65%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.10%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.65%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.10%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.47%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.11%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.47%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.11%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.97%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.97%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       203.03%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.09%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       203.03%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.09%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.17%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.13%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.17%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.13%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.59%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.59%   6.978GiB / 15.39GiB   45.34%    3.45kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.79%   6.978GiB / 15.39GiB   45.34%    3.52kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.11%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.79%   6.978GiB / 15.39GiB   45.34%    3.52kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.11%     29.06MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24.04MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       202.64%   6.978GiB / 15.39GiB   45.34%    3.52kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.10%     29.02MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24MiB / 15.39GiB      0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       202.64%   6.978GiB / 15.39GiB   45.34%    3.52kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.10%     29.02MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24MiB / 15.39GiB      0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.92%   6.978GiB / 15.39GiB   45.34%    3.52kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.02MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24MiB / 15.39GiB      0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.92%   6.978GiB / 15.39GiB   45.34%    3.52kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.02MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24MiB / 15.39GiB      0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.20%   6.978GiB / 15.39GiB   45.34%    3.52kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.12%     29.02MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24MiB / 15.39GiB      0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.20%   6.978GiB / 15.39GiB   45.34%    3.52kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.12%     29.02MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24MiB / 15.39GiB      0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.38%   6.978GiB / 15.39GiB   45.34%    3.52kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.12%     29.02MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24MiB / 15.39GiB      0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.38%   6.978GiB / 15.39GiB   45.34%    3.52kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.12%     29.02MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24MiB / 15.39GiB      0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.10%   6.978GiB / 15.39GiB   45.34%    3.73kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.02MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24MiB / 15.39GiB      0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.10%   6.978GiB / 15.39GiB   45.34%    3.73kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     29.02MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24MiB / 15.39GiB      0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.36%   6.978GiB / 15.39GiB   45.34%    3.73kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.09%     29.02MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24MiB / 15.39GiB      0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.36%   6.978GiB / 15.39GiB   45.34%    3.73kB / 0B       205kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.09%     29.02MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24MiB / 15.39GiB      0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.66%   7.015GiB / 15.39GiB   45.58%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.02MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24MiB / 15.39GiB      0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.66%   7.015GiB / 15.39GiB   45.58%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     29.02MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     24MiB / 15.39GiB      0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       174.89%   7.184GiB / 15.39GiB   46.68%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     28.95MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.95MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       174.89%   7.184GiB / 15.39GiB   46.68%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     28.95MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.95MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       187.92%   7.256GiB / 15.39GiB   47.14%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.95MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.95MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       187.92%   7.256GiB / 15.39GiB   47.14%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.95MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.95MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.34%   7.256GiB / 15.39GiB   47.14%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.34%   7.256GiB / 15.39GiB   47.14%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.53%   7.256GiB / 15.39GiB   47.14%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.53%   7.256GiB / 15.39GiB   47.14%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.08%   7.256GiB / 15.39GiB   47.14%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.08%   7.256GiB / 15.39GiB   47.14%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.78%   7.256GiB / 15.39GiB   47.14%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.78%   7.256GiB / 15.39GiB   47.14%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.58%   7.256GiB / 15.39GiB   47.14%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.58%   7.256GiB / 15.39GiB   47.14%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.04%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.04%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.29%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.29%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.10%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.10%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.08%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.08%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       201.08%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.27%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.27%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.79%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.79%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.60%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.60%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.27%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.27%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.83%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.83%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.79%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.79%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.84%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.84%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.54%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.54%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.09%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.09%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.76%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.76%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.78%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.78%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.01%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.01%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.88%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.88%   7.269GiB / 15.39GiB   47.23%    3.73kB / 0B       209kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.22%   5.614GiB / 15.39GiB   36.48%    3.73kB / 0B       442kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.22%   5.614GiB / 15.39GiB   36.48%    3.73kB / 0B       442kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.71%   5.627GiB / 15.39GiB   36.56%    3.73kB / 0B       463kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.71%   5.627GiB / 15.39GiB   36.56%    3.73kB / 0B       463kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.09%   5.627GiB / 15.39GiB   36.56%    3.73kB / 0B       463kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.09%   5.627GiB / 15.39GiB   36.56%    3.73kB / 0B       463kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.28%   4.436GiB / 15.39GiB   28.82%    3.73kB / 0B       889kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.28%   4.436GiB / 15.39GiB   28.82%    3.73kB / 0B       889kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.24%   4.436GiB / 15.39GiB   28.82%    3.73kB / 0B       889kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.24%   4.436GiB / 15.39GiB   28.82%    3.73kB / 0B       889kB / 0B        2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       149.70%   4.554GiB / 15.39GiB   29.59%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       149.70%   4.554GiB / 15.39GiB   29.59%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.63%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.63%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.28%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.28%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       134.11%   4.568GiB / 15.39GiB   29.68%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       134.11%   4.568GiB / 15.39GiB   29.68%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.33%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.33%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.28%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.28%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       144.37%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       144.37%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.59%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.59%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.79%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.79%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       146.43%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       146.43%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.59%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.08%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.59%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.08%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.33%   4.863GiB / 15.39GiB   31.60%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.33%   4.863GiB / 15.39GiB   31.60%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       144.03%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       144.03%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.28%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.08%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.28%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.08%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.55%   5.423GiB / 15.39GiB   35.24%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.55%   5.423GiB / 15.39GiB   35.24%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       138.72%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       138.72%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.02%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.08%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.02%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.08%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.87%   5.615GiB / 15.39GiB   36.48%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       199.87%   5.615GiB / 15.39GiB   36.48%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       145.73%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       145.73%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.58%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.58%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       190.34%   6.092GiB / 15.39GiB   39.58%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       190.34%   6.092GiB / 15.39GiB   39.58%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       152.63%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       152.63%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.01%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.01%   4.699GiB / 15.39GiB   30.53%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       183.65%   6.487GiB / 15.39GiB   42.15%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       183.65%   6.487GiB / 15.39GiB   42.15%    3.73kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       160.78%   4.699GiB / 15.39GiB   30.53%    3.79kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       160.78%   4.699GiB / 15.39GiB   30.53%    3.79kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.58%   4.699GiB / 15.39GiB   30.53%    3.79kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.58%   4.699GiB / 15.39GiB   30.53%    3.79kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       159.87%   5.91GiB / 15.39GiB    38.40%    3.79kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       159.87%   5.91GiB / 15.39GiB    38.40%    3.79kB / 0B       1.15MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       184.05%   4.568GiB / 15.39GiB   29.68%    3.79kB / 0B       1.16MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       184.05%   4.568GiB / 15.39GiB   29.68%    3.79kB / 0B       1.16MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.07%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.82%   4.568GiB / 15.39GiB   29.68%    3.79kB / 0B       1.16MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+1175bbb7d5c6   dazzling_dhawan       200.82%   4.568GiB / 15.39GiB   29.68%    3.79kB / 0B       1.16MB / 0B       2
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.05%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.05%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.19%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.19%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.19%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.19%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.21%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.21%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.22%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.22%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.06%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.00%     28.91MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.92MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2

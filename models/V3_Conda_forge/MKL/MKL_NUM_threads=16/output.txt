@@ -1,0 +1,46 @@
+Sana
+******************description of thread-pools initialized*****************
+[
+  {
+    "filepath": "/opt/conda/lib/libmkl_rt.so.1",
+    "prefix": "libmkl_rt",
+    "user_api": "blas",
+    "internal_api": "mkl",
+    "version": "2021.3-Product",
+    "num_threads": 4,
+    "threading_layer": "intel"
+  },
+  {
+    "filepath": "/opt/conda/lib/libiomp5.so",
+    "prefix": "libiomp",
+    "user_api": "openmp",
+    "internal_api": "openmp",
+    "version": null,
+    "num_threads": 8
+  }
+]
+****************the current state of the threadpool-enabled runtime libraries that are loaded 
+[{'filepath': '/opt/conda/lib/libmkl_rt.so.1',
+  'internal_api': 'mkl',
+  'num_threads': 4,
+  'prefix': 'libmkl_rt',
+  'threading_layer': 'intel',
+  'user_api': 'blas',
+  'version': '2021.3-Product'},
+ {'filepath': '/opt/conda/lib/libiomp5.so',
+  'internal_api': 'openmp',
+  'num_threads': 8,
+  'prefix': 'libiomp',
+  'user_api': 'openmp',
+  'version': None},
+ {'filepath': '/opt/conda/lib/libgomp.so.1.0.0',
+  'internal_api': 'openmp',
+  'num_threads': 8,
+  'prefix': 'libgomp',
+  'user_api': 'openmp',
+  'version': None}]
+****************Data_shape
+(43999, 4096) (43999, 444)
+(39599, 4096) (4400, 4096) (39599, 444) (4400, 444)
+**********************************Training time: 94.64929342269897s
+(444,)

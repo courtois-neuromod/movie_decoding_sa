@@ -1,0 +1,1191 @@
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         0.25%     6.795GiB / 15.39GiB   44.15%    2.42kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         0.25%     6.795GiB / 15.39GiB   44.15%    2.42kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         764.53%   6.795GiB / 15.39GiB   44.15%    2.42kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         764.53%   6.795GiB / 15.39GiB   44.15%    2.42kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         746.26%   6.795GiB / 15.39GiB   44.15%    2.52kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         746.26%   6.795GiB / 15.39GiB   44.15%    2.52kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         788.77%   6.796GiB / 15.39GiB   44.16%    2.52kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         788.77%   6.796GiB / 15.39GiB   44.16%    2.52kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         783.12%   6.796GiB / 15.39GiB   44.16%    2.52kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         783.12%   6.796GiB / 15.39GiB   44.16%    2.52kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.49%   6.796GiB / 15.39GiB   44.16%    2.52kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.22%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.49%   6.796GiB / 15.39GiB   44.16%    2.52kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.22%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.56%   6.796GiB / 15.39GiB   44.16%    2.59kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.23%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.56%   6.796GiB / 15.39GiB   44.16%    2.59kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.23%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         735.69%   6.796GiB / 15.39GiB   44.16%    2.59kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         735.69%   6.796GiB / 15.39GiB   44.16%    2.59kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         742.08%   6.796GiB / 15.39GiB   44.16%    2.59kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         742.08%   6.796GiB / 15.39GiB   44.16%    2.59kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         675.00%   6.796GiB / 15.39GiB   44.16%    2.59kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.19%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         675.00%   6.796GiB / 15.39GiB   44.16%    2.59kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.19%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         714.11%   6.796GiB / 15.39GiB   44.16%    2.7kB / 0B       573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         714.11%   6.796GiB / 15.39GiB   44.16%    2.7kB / 0B       573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         761.85%   6.796GiB / 15.39GiB   44.16%    2.7kB / 0B       573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         761.85%   6.796GiB / 15.39GiB   44.16%    2.7kB / 0B       573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         750.78%   6.796GiB / 15.39GiB   44.16%    2.7kB / 0B       573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.11%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         750.78%   6.796GiB / 15.39GiB   44.16%    2.7kB / 0B       573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.11%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         788.96%   6.796GiB / 15.39GiB   44.16%    2.7kB / 0B       573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         788.96%   6.796GiB / 15.39GiB   44.16%    2.7kB / 0B       573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.72%   6.796GiB / 15.39GiB   44.16%    2.7kB / 0B       573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.72%   6.796GiB / 15.39GiB   44.16%    2.7kB / 0B       573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         783.10%   6.796GiB / 15.39GiB   44.16%    2.7kB / 0B       573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         783.10%   6.796GiB / 15.39GiB   44.16%    2.7kB / 0B       573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         789.81%   6.796GiB / 15.39GiB   44.16%    2.7kB / 0B       573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         789.81%   6.796GiB / 15.39GiB   44.16%    2.7kB / 0B       573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         789.59%   6.796GiB / 15.39GiB   44.16%    2.7kB / 0B       573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.22%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         789.59%   6.796GiB / 15.39GiB   44.16%    2.7kB / 0B       573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.22%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.06%   6.797GiB / 15.39GiB   44.16%    2.7kB / 0B       573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.06%   6.797GiB / 15.39GiB   44.16%    2.7kB / 0B       573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.30%   6.796GiB / 15.39GiB   44.16%    2.7kB / 0B       573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.30%   6.796GiB / 15.39GiB   44.16%    2.7kB / 0B       573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         766.17%   6.796GiB / 15.39GiB   44.16%    2.77kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         766.17%   6.796GiB / 15.39GiB   44.16%    2.77kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         702.80%   6.797GiB / 15.39GiB   44.16%    2.77kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         702.80%   6.797GiB / 15.39GiB   44.16%    2.77kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         776.99%   6.796GiB / 15.39GiB   44.16%    2.77kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         776.99%   6.796GiB / 15.39GiB   44.16%    2.77kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         787.74%   6.797GiB / 15.39GiB   44.16%    2.77kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         787.74%   6.797GiB / 15.39GiB   44.16%    2.77kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.08%   6.797GiB / 15.39GiB   44.16%    2.77kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.08%   6.797GiB / 15.39GiB   44.16%    2.77kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         789.05%   6.797GiB / 15.39GiB   44.17%    2.77kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         789.05%   6.797GiB / 15.39GiB   44.17%    2.77kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.35%   6.797GiB / 15.39GiB   44.16%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.35%   6.797GiB / 15.39GiB   44.16%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         779.16%   6.797GiB / 15.39GiB   44.16%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         779.16%   6.797GiB / 15.39GiB   44.16%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         800.84%   6.797GiB / 15.39GiB   44.16%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         800.84%   6.797GiB / 15.39GiB   44.16%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         788.01%   6.797GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         788.01%   6.797GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         782.01%   6.797GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         782.01%   6.797GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         795.88%   6.797GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         795.88%   6.797GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.86%   6.797GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.86%   6.797GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.86%   6.797GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.83%   6.797GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.83%   6.797GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         787.52%   6.798GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         787.52%   6.798GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         792.08%   6.798GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         792.08%   6.798GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.45%   6.798GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.20%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.45%   6.798GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.20%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         788.30%   6.798GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.22%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         788.30%   6.798GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.22%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         791.82%   6.798GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         791.82%   6.798GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.46%   6.798GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.46%   6.798GiB / 15.39GiB   44.17%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.73%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.73%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.25%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.25%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         791.51%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         791.51%   6.799GiB / 15.39GiB   44.18%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         750.26%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         750.26%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         791.63%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         791.63%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         793.94%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         793.94%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.89%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.89%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         794.16%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         794.16%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         792.34%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         792.34%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         791.55%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         791.55%   6.924GiB / 15.39GiB   44.99%    2.88kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.11%   6.924GiB / 15.39GiB   44.99%    2.95kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.11%   6.924GiB / 15.39GiB   44.99%    2.95kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         789.54%   6.924GiB / 15.39GiB   44.99%    2.95kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         789.54%   6.924GiB / 15.39GiB   44.99%    2.95kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         774.49%   6.924GiB / 15.39GiB   44.99%    2.95kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.21%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         774.49%   6.924GiB / 15.39GiB   44.99%    2.95kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.21%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         763.99%   6.924GiB / 15.39GiB   44.99%    2.95kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         763.99%   6.924GiB / 15.39GiB   44.99%    2.95kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         791.59%   6.924GiB / 15.39GiB   44.99%    2.95kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         791.59%   6.924GiB / 15.39GiB   44.99%    2.95kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         788.55%   6.924GiB / 15.39GiB   44.99%    2.95kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.22%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         788.55%   6.924GiB / 15.39GiB   44.99%    2.95kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.22%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         791.19%   6.924GiB / 15.39GiB   44.99%    2.95kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         791.19%   6.924GiB / 15.39GiB   44.99%    2.95kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.34%   6.924GiB / 15.39GiB   44.99%    2.95kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.34%   6.924GiB / 15.39GiB   44.99%    2.95kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         794.08%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.22%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         794.08%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.22%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.14%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.14%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         794.33%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         794.33%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.43%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.43%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.47%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.47%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         789.90%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         789.90%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         787.45%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         787.45%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.57%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.57%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         781.91%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         781.91%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         792.47%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         792.47%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         791.13%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         791.13%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         791.24%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         791.24%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         787.42%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         787.42%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         787.42%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.81%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.81%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         792.87%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.22%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         792.87%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.22%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.26%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.26%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.20%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.20%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         791.29%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         791.29%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         791.52%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         791.52%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         787.95%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         787.95%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         792.08%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         792.08%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         787.77%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         787.77%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         763.21%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         763.21%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         762.90%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         762.90%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         768.60%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.21%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         768.60%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.21%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         728.26%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.11%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         728.26%   6.924GiB / 15.39GiB   44.99%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.11%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         783.20%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         783.20%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         776.97%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.27%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         776.97%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.27%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         780.74%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.27%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         780.74%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.27%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.02%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.02%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         778.87%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.21%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         778.87%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.21%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         778.90%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.25%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         778.90%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.25%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         780.30%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         780.30%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         779.17%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         779.17%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         779.14%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.28%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         779.14%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.28%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         762.68%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         762.68%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         776.95%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.19%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         776.95%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.19%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.76%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.29%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.76%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.29%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         782.88%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         782.88%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         781.29%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.21%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         781.29%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.21%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         780.77%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         780.77%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         783.78%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         783.78%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.78%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.78%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.78%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.25%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         780.74%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.25%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         780.74%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.25%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         775.99%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         775.99%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         780.38%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.18%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         780.38%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.18%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         779.53%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.21%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         779.53%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.21%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         785.77%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         785.77%   6.925GiB / 15.39GiB   45.00%    3.05kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         782.48%   6.925GiB / 15.39GiB   45.00%    3.12kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.18%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         782.48%   6.925GiB / 15.39GiB   45.00%    3.12kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.18%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         787.69%   6.925GiB / 15.39GiB   45.00%    3.12kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.26%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         787.69%   6.925GiB / 15.39GiB   45.00%    3.12kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.26%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         785.13%   6.925GiB / 15.39GiB   45.00%    3.12kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         785.13%   6.925GiB / 15.39GiB   45.00%    3.12kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.53%   6.925GiB / 15.39GiB   45.00%    3.12kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.15%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         784.53%   6.925GiB / 15.39GiB   45.00%    3.12kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.15%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         785.78%   6.925GiB / 15.39GiB   45.00%    3.12kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.18%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         785.78%   6.925GiB / 15.39GiB   45.00%    3.12kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.18%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         785.03%   6.925GiB / 15.39GiB   45.00%    3.12kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         785.03%   6.925GiB / 15.39GiB   45.00%    3.12kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         739.60%   6.925GiB / 15.39GiB   45.00%    3.12kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         739.60%   6.925GiB / 15.39GiB   45.00%    3.12kB / 0B      573kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         757.25%   6.987GiB / 15.39GiB   45.40%    3.12kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         757.25%   6.987GiB / 15.39GiB   45.40%    3.12kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.07%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         457.76%   7.175GiB / 15.39GiB   46.62%    3.12kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         457.76%   7.175GiB / 15.39GiB   46.62%    3.12kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         543.15%   7.244GiB / 15.39GiB   47.07%    3.12kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         543.15%   7.244GiB / 15.39GiB   47.07%    3.12kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         747.80%   7.245GiB / 15.39GiB   47.07%    3.12kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.11%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         747.80%   7.245GiB / 15.39GiB   47.07%    3.12kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.11%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         793.35%   7.244GiB / 15.39GiB   47.07%    3.12kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         793.35%   7.244GiB / 15.39GiB   47.07%    3.12kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         788.58%   7.244GiB / 15.39GiB   47.07%    3.12kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         788.58%   7.244GiB / 15.39GiB   47.07%    3.12kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         789.39%   7.244GiB / 15.39GiB   47.07%    3.12kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         789.39%   7.244GiB / 15.39GiB   47.07%    3.12kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         787.87%   7.244GiB / 15.39GiB   47.07%    3.12kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.11%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         787.87%   7.244GiB / 15.39GiB   47.07%    3.12kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.11%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.10%   7.244GiB / 15.39GiB   47.07%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.10%   7.244GiB / 15.39GiB   47.07%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         788.01%   7.244GiB / 15.39GiB   47.07%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         788.01%   7.244GiB / 15.39GiB   47.07%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         791.32%   7.244GiB / 15.39GiB   47.07%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         791.32%   7.244GiB / 15.39GiB   47.07%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.94%   7.244GiB / 15.39GiB   47.07%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.94%   7.244GiB / 15.39GiB   47.07%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.55%   7.244GiB / 15.39GiB   47.07%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.55%   7.244GiB / 15.39GiB   47.07%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.08%   7.244GiB / 15.39GiB   47.07%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.08%   7.244GiB / 15.39GiB   47.07%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         795.08%   7.247GiB / 15.39GiB   47.09%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         795.08%   7.247GiB / 15.39GiB   47.09%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         788.01%   7.247GiB / 15.39GiB   47.09%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         788.01%   7.247GiB / 15.39GiB   47.09%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         795.55%   7.247GiB / 15.39GiB   47.09%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         795.55%   7.247GiB / 15.39GiB   47.09%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.53%   7.247GiB / 15.39GiB   47.09%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.53%   7.247GiB / 15.39GiB   47.09%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         795.08%   7.247GiB / 15.39GiB   47.09%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         795.08%   7.247GiB / 15.39GiB   47.09%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         783.64%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         783.64%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         793.05%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         793.05%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.25%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         790.25%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         792.49%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         792.49%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         794.85%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         794.85%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         788.66%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         788.66%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         796.30%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         796.30%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         792.77%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         792.77%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         789.45%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         789.45%   7.246GiB / 15.39GiB   47.08%    3.23kB / 0B      578kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         794.51%   5.604GiB / 15.39GiB   36.41%    3.23kB / 0B      623kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         794.51%   5.604GiB / 15.39GiB   36.41%    3.23kB / 0B      623kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         794.51%   5.604GiB / 15.39GiB   36.41%    3.23kB / 0B      623kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         788.52%   5.604GiB / 15.39GiB   36.41%    3.23kB / 0B      623kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         788.52%   5.604GiB / 15.39GiB   36.41%    3.23kB / 0B      623kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.81%   4.481GiB / 15.39GiB   29.12%    3.23kB / 0B      688kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.81%   4.481GiB / 15.39GiB   29.12%    3.23kB / 0B      688kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         793.67%   4.481GiB / 15.39GiB   29.12%    3.23kB / 0B      688kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         793.67%   4.481GiB / 15.39GiB   29.12%    3.23kB / 0B      688kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         380.87%   4.599GiB / 15.39GiB   29.88%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         380.87%   4.599GiB / 15.39GiB   29.88%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         792.26%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         792.26%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         637.61%   6.187GiB / 15.39GiB   40.20%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         637.61%   6.187GiB / 15.39GiB   40.20%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         479.48%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         479.48%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         779.22%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.11%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         779.22%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.11%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         403.20%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         403.20%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         789.75%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         789.75%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         576.64%   6.617GiB / 15.39GiB   43.00%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         576.64%   6.617GiB / 15.39GiB   43.00%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         604.94%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         604.94%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         796.43%   4.813GiB / 15.39GiB   31.27%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         796.43%   4.813GiB / 15.39GiB   31.27%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         370.47%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         370.47%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.08%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         792.48%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         792.48%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         463.85%   5.955GiB / 15.39GiB   38.69%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         463.85%   5.955GiB / 15.39GiB   38.69%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         719.85%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         719.85%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.06%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         749.54%   5.252GiB / 15.39GiB   34.12%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         749.54%   5.252GiB / 15.39GiB   34.12%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         429.58%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         429.58%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.45%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         786.45%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         384.75%   4.613GiB / 15.39GiB   29.97%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         384.75%   4.613GiB / 15.39GiB   29.97%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.05%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         796.77%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         796.77%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         612.47%   6.382GiB / 15.39GiB   41.47%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         612.47%   6.382GiB / 15.39GiB   41.47%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         575.04%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.24%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         575.04%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.24%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         794.39%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         794.39%   4.744GiB / 15.39GiB   30.82%    3.23kB / 0B      709kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.09%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         387.19%   4.613GiB / 15.39GiB   29.97%    3.23kB / 0B      713kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         387.19%   4.613GiB / 15.39GiB   29.97%    3.23kB / 0B      713kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         785.14%   4.613GiB / 15.39GiB   29.97%    3.23kB / 0B      713kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         785.14%   4.613GiB / 15.39GiB   29.97%    3.23kB / 0B      713kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+370fa7a24ec7   crazy_poincare         797.41%   2.813GiB / 15.39GiB   18.28%    3.23kB / 0B      713kB / 0B    8
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.10%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.15%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.15%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.20%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.20%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.14%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.14%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.13%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.13%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.14%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.14%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.14%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.14%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.18%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.18%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.17%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.16%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.15%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.15%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+71e2ae5b1fd4   heuristic_heisenberg   0.00%     26.14MiB / 15.39GiB   0.17%     8.6MB / 38.9kB   0B / 9.97MB   2

@@ -1,0 +1,34 @@
+Sana
+******************description of thread-pools initialized*****************
+[
+  {
+    "filepath": "/opt/conda/lib/libopenblasp-r0.3.17.so",
+    "prefix": "libopenblas",
+    "user_api": "blas",
+    "internal_api": "openblas",
+    "version": "0.3.17",
+    "num_threads": 8,
+    "threading_layer": "pthreads",
+    "architecture": "Haswell"
+  }
+]
+****************the current state of the threadpool-enabled runtime libraries that are loaded 
+[{'architecture': 'Haswell',
+  'filepath': '/opt/conda/lib/libopenblasp-r0.3.17.so',
+  'internal_api': 'openblas',
+  'num_threads': 8,
+  'prefix': 'libopenblas',
+  'threading_layer': 'pthreads',
+  'user_api': 'blas',
+  'version': '0.3.17'},
+ {'filepath': '/opt/conda/lib/libgomp.so.1.0.0',
+  'internal_api': 'openmp',
+  'num_threads': 8,
+  'prefix': 'libgomp',
+  'user_api': 'openmp',
+  'version': None}]
+****************Data_shape
+(43999, 4096) (43999, 444)
+(39599, 4096) (4400, 4096) (39599, 444) (4400, 444)
+**********************************Training time: 169.16237950325012s
+(444,)

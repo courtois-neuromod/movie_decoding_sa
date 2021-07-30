@@ -1,0 +1,715 @@
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           0.06%     6.802GiB / 15.39GiB   44.20%    2.7kB / 0B        20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.99MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.01%     23.78MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           0.06%     6.802GiB / 15.39GiB   44.20%    2.7kB / 0B        20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.99MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.01%     23.78MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           395.05%   6.804GiB / 15.39GiB   44.21%    2.91kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.99MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.78MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           395.05%   6.804GiB / 15.39GiB   44.21%    2.91kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.99MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.78MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           396.23%   6.804GiB / 15.39GiB   44.21%    2.91kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.06%     28.99MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.78MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           396.23%   6.804GiB / 15.39GiB   44.21%    2.91kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.06%     28.99MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.78MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.03%   6.804GiB / 15.39GiB   44.21%    2.91kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.99MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.78MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.03%   6.804GiB / 15.39GiB   44.21%    2.91kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.99MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.78MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           390.87%   6.804GiB / 15.39GiB   44.21%    2.91kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.99MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.78MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           390.87%   6.804GiB / 15.39GiB   44.21%    2.91kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.99MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.78MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.12%   6.804GiB / 15.39GiB   44.21%    2.91kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.98MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.77MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.12%   6.804GiB / 15.39GiB   44.21%    2.91kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.98MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.77MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           397.21%   6.804GiB / 15.39GiB   44.21%    2.91kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.98MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.77MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           397.21%   6.804GiB / 15.39GiB   44.21%    2.91kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.98MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.77MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           401.66%   6.804GiB / 15.39GiB   44.21%    2.98kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.98MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.77MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           401.66%   6.804GiB / 15.39GiB   44.21%    2.98kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.98MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.77MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           401.11%   6.804GiB / 15.39GiB   44.21%    2.98kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.98MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.77MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           401.11%   6.804GiB / 15.39GiB   44.21%    2.98kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.98MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.77MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.59%   6.804GiB / 15.39GiB   44.21%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.98MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.77MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.59%   6.804GiB / 15.39GiB   44.21%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.98MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.77MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.86%   6.805GiB / 15.39GiB   44.22%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.98MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.77MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.86%   6.805GiB / 15.39GiB   44.22%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.98MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.77MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.11%   6.989GiB / 15.39GiB   45.42%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.17%     28.89MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.69MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.11%   6.989GiB / 15.39GiB   45.42%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.17%     28.89MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.69MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.09%   6.993GiB / 15.39GiB   45.44%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.89MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.69MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.09%   6.993GiB / 15.39GiB   45.44%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.89MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.69MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           402.31%   6.995GiB / 15.39GiB   45.45%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.86MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.68MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           402.31%   6.995GiB / 15.39GiB   45.45%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.86MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.68MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.32%   6.996GiB / 15.39GiB   45.46%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.86MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.32%   6.996GiB / 15.39GiB   45.46%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.86MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.83%   6.997GiB / 15.39GiB   45.47%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.83%   6.997GiB / 15.39GiB   45.47%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           401.64%   6.999GiB / 15.39GiB   45.48%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.10%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           401.64%   6.999GiB / 15.39GiB   45.48%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.10%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.40%   7.004GiB / 15.39GiB   45.51%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.40%   7.004GiB / 15.39GiB   45.51%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           398.12%   7.005GiB / 15.39GiB   45.51%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           398.12%   7.005GiB / 15.39GiB   45.51%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           402.99%   7.011GiB / 15.39GiB   45.55%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           402.99%   7.011GiB / 15.39GiB   45.55%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.67%   7.011GiB / 15.39GiB   45.56%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.67%   7.011GiB / 15.39GiB   45.56%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.97%   7.012GiB / 15.39GiB   45.56%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.97%   7.012GiB / 15.39GiB   45.56%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           401.24%   7.02GiB / 15.39GiB    45.61%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           401.24%   7.02GiB / 15.39GiB    45.61%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.74%   7.02GiB / 15.39GiB    45.61%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.34%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.74%   7.02GiB / 15.39GiB    45.61%    3.18kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.34%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           403.30%   7.02GiB / 15.39GiB    45.61%    3.38kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           403.30%   7.02GiB / 15.39GiB    45.61%    3.38kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.64%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.33%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.64%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.33%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.31%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.20%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.31%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.20%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           392.79%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.07%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           392.79%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.07%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           392.78%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.15%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           392.78%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.15%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           401.88%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.29%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           401.88%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.29%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.19%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.31%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.19%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.31%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           402.86%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           402.86%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.24%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.24%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.24%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.24%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.24%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.32%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           397.06%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.32%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           397.06%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.32%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           403.81%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           403.81%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           402.61%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.16%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           402.61%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.16%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           402.49%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.24%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           402.49%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.24%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           404.15%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           404.15%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           405.15%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.34%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           405.15%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.34%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           407.60%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.25%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           407.60%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.25%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           412.09%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           412.09%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           405.51%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.29%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           405.51%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.29%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           408.10%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.25%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           408.10%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.25%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.22%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.22%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           402.18%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.23%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           402.18%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.23%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           403.00%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.31%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           403.00%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.31%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           402.41%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           402.41%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           404.59%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.24%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           404.59%   7.02GiB / 15.39GiB    45.61%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.24%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           404.25%   7.059GiB / 15.39GiB   45.87%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.07%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           404.25%   7.059GiB / 15.39GiB   45.87%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.07%     28.85MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.67MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           268.49%   7.295GiB / 15.39GiB   47.40%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.77MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.76MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           268.49%   7.295GiB / 15.39GiB   47.40%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.77MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.76MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.76%   7.297GiB / 15.39GiB   47.41%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.77MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.76MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.76%   7.297GiB / 15.39GiB   47.41%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.77MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.76MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           398.74%   7.297GiB / 15.39GiB   47.41%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           398.74%   7.297GiB / 15.39GiB   47.41%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.76%   7.297GiB / 15.39GiB   47.41%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.76%   7.297GiB / 15.39GiB   47.41%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.58%   7.309GiB / 15.39GiB   47.49%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.58%   7.309GiB / 15.39GiB   47.49%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           402.75%   7.309GiB / 15.39GiB   47.49%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           402.75%   7.309GiB / 15.39GiB   47.49%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.19%   7.309GiB / 15.39GiB   47.49%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.19%   7.309GiB / 15.39GiB   47.49%    3.45kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           401.67%   7.309GiB / 15.39GiB   47.49%    3.65kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           401.67%   7.309GiB / 15.39GiB   47.49%    3.65kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.68%   7.309GiB / 15.39GiB   47.49%    3.65kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.68%   7.309GiB / 15.39GiB   47.49%    3.65kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           401.17%   7.309GiB / 15.39GiB   47.49%    3.65kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.11%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           401.17%   7.309GiB / 15.39GiB   47.49%    3.65kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.11%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.68%   7.309GiB / 15.39GiB   47.49%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.68%   7.309GiB / 15.39GiB   47.49%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           401.17%   7.309GiB / 15.39GiB   47.49%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           401.17%   7.309GiB / 15.39GiB   47.49%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           401.17%   7.309GiB / 15.39GiB   47.49%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           402.27%   7.309GiB / 15.39GiB   47.49%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           402.27%   7.309GiB / 15.39GiB   47.49%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.67%   7.309GiB / 15.39GiB   47.49%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.67%   7.309GiB / 15.39GiB   47.49%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.69%   5.666GiB / 15.39GiB   36.82%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.69%   5.666GiB / 15.39GiB   36.82%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           402.74%   4.475GiB / 15.39GiB   29.08%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.10%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           402.74%   4.475GiB / 15.39GiB   29.08%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.10%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.18%   4.475GiB / 15.39GiB   29.08%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           400.18%   4.475GiB / 15.39GiB   29.08%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           238.93%   4.733GiB / 15.39GiB   30.75%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           238.93%   4.733GiB / 15.39GiB   30.75%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.06%   4.733GiB / 15.39GiB   30.75%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.10%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           399.06%   4.733GiB / 15.39GiB   30.75%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.10%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           178.67%   4.864GiB / 15.39GiB   31.61%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           178.67%   4.864GiB / 15.39GiB   31.61%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           396.59%   4.733GiB / 15.39GiB   30.75%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.10%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           396.59%   4.733GiB / 15.39GiB   30.75%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.10%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           239.37%   5.944GiB / 15.39GiB   38.62%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.07%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           239.37%   5.944GiB / 15.39GiB   38.62%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.07%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           355.75%   4.733GiB / 15.39GiB   30.75%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           355.75%   4.733GiB / 15.39GiB   30.75%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           281.78%   7.123GiB / 15.39GiB   46.28%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.10%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           281.78%   7.123GiB / 15.39GiB   46.28%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.10%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           341.87%   4.733GiB / 15.39GiB   30.75%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           341.87%   4.733GiB / 15.39GiB   30.75%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           296.48%   7.061GiB / 15.39GiB   45.88%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           296.48%   7.061GiB / 15.39GiB   45.88%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           316.30%   4.733GiB / 15.39GiB   30.75%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.15%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           316.30%   4.733GiB / 15.39GiB   30.75%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.15%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           318.98%   7.012GiB / 15.39GiB   45.56%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           318.98%   7.012GiB / 15.39GiB   45.56%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           293.71%   4.733GiB / 15.39GiB   30.75%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           293.71%   4.733GiB / 15.39GiB   30.75%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           345.76%   6.582GiB / 15.39GiB   42.77%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.10%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           345.76%   6.582GiB / 15.39GiB   42.77%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.10%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           268.23%   4.733GiB / 15.39GiB   30.75%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.10%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           268.23%   4.733GiB / 15.39GiB   30.75%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.10%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           372.80%   6.075GiB / 15.39GiB   39.47%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           372.80%   6.075GiB / 15.39GiB   39.47%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           245.89%   4.733GiB / 15.39GiB   30.75%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           245.89%   4.733GiB / 15.39GiB   30.75%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.08%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           393.10%   5.715GiB / 15.39GiB   37.14%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.10%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           393.10%   5.715GiB / 15.39GiB   37.14%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.10%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           225.23%   4.733GiB / 15.39GiB   30.75%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           225.23%   4.733GiB / 15.39GiB   30.75%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           402.48%   5.232GiB / 15.39GiB   34.00%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           402.48%   5.232GiB / 15.39GiB   34.00%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.09%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           219.44%   4.602GiB / 15.39GiB   29.90%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.10%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           219.44%   4.602GiB / 15.39GiB   29.90%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.10%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+b8ec893a789c   cranky_wing           401.66%   4.602GiB / 15.39GiB   29.90%    3.73kB / 0B       20.5kB / 0B       4
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.00%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.10%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.10%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.22%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
+[2J[HCONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+2b71a0d37f07   condescending_tesla   0.22%     28.88MiB / 15.39GiB   0.18%     8.69MB / 46.6kB   5.09MB / 9.97MB   2
+cb2c5c827571   elastic_brattain      0.00%     23.75MiB / 15.39GiB   0.15%     8.72MB / 55.2kB   659kB / 10MB      2
