@@ -1,0 +1,207 @@
+2021-12-14 20:27:27.119945: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2021-12-14 20:27:27.120114: W tensorflow/stream_executor/cuda/cuda_driver.cc:269] failed call to cuInit: UNKNOWN ERROR (303)
+2021-12-14 20:27:27.120152: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (nl10901.narval.calcul.quebec): /proc/driver/nvidia/version does not exist
+2021-12-14 20:27:27.120674: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+/home/sana4471/.local/lib/python3.7/site-packages/numpy/lib/npyio.py:528: VisibleDeprecationWarning: Creating an ndarray from ragged nested sequences (which is a list-or-tuple of lists-or-tuples-or ndarrays with different lengths or shapes) is deprecated. If you meant to do this, you must specify 'dtype=object' when creating the ndarray.
+  arr = np.asanyarray(arr)
+Model: "vgg16"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ input_1 (InputLayer)        [(None, 224, 224, 3)]     0         
+                                                                 
+ block1_conv1 (Conv2D)       (None, 224, 224, 64)      1792      
+                                                                 
+ block1_conv2 (Conv2D)       (None, 224, 224, 64)      36928     
+                                                                 
+ block1_pool (MaxPooling2D)  (None, 112, 112, 64)      0         
+                                                                 
+ block2_conv1 (Conv2D)       (None, 112, 112, 128)     73856     
+                                                                 
+ block2_conv2 (Conv2D)       (None, 112, 112, 128)     147584    
+                                                                 
+ block2_pool (MaxPooling2D)  (None, 56, 56, 128)       0         
+                                                                 
+ block3_conv1 (Conv2D)       (None, 56, 56, 256)       295168    
+                                                                 
+ block3_conv2 (Conv2D)       (None, 56, 56, 256)       590080    
+                                                                 
+ block3_conv3 (Conv2D)       (None, 56, 56, 256)       590080    
+                                                                 
+ block3_pool (MaxPooling2D)  (None, 28, 28, 256)       0         
+                                                                 
+ block4_conv1 (Conv2D)       (None, 28, 28, 512)       1180160   
+                                                                 
+ block4_conv2 (Conv2D)       (None, 28, 28, 512)       2359808   
+                                                                 
+ block4_conv3 (Conv2D)       (None, 28, 28, 512)       2359808   
+                                                                 
+ block4_pool (MaxPooling2D)  (None, 14, 14, 512)       0         
+                                                                 
+ block5_conv1 (Conv2D)       (None, 14, 14, 512)       2359808   
+                                                                 
+ block5_conv2 (Conv2D)       (None, 14, 14, 512)       2359808   
+                                                                 
+ block5_conv3 (Conv2D)       (None, 14, 14, 512)       2359808   
+                                                                 
+ block5_pool (MaxPooling2D)  (None, 7, 7, 512)         0         
+                                                                 
+ flatten (Flatten)           (None, 25088)             0         
+                                                                 
+ fc1 (Dense)                 (None, 4096)              102764544 
+                                                                 
+ fc2 (Dense)                 (None, 4096)              16781312  
+                                                                 
+ predictions (Dense)         (None, 1000)              4097000   
+                                                                 
+=================================================================
+Total params: 138,357,544
+Trainable params: 138,357,544
+Non-trainable params: 0
+_________________________________________________________________
+s1/friends_s1e01a.mkv
+Done!
+(717, 3211264)
+s1/friends_s1e01b.mkv
+Done!
+(717, 3211264)
+s1/friends_s1e02a.mkv
+Done!
+(702, 3211264)
+s1/friends_s1e02b.mkv
+Done!
+(702, 3211264)
+s1/friends_s1e03a.mkv
+Done!
+(748, 3211264)
+s1/friends_s1e03b.mkv
+Done!
+(748, 3211264)
+s1/friends_s1e04a.mkv
+Done!
+(696, 3211264)
+s1/friends_s1e04b.mkv
+Done!
+(696, 3211264)
+s1/friends_s1e05a.mkv
+Done!
+(726, 3211264)
+s1/friends_s1e05b.mkv
+Done!
+(726, 3211264)
+s1/friends_s1e06a.mkv
+Done!
+(880, 3211264)
+s1/friends_s1e06b.mkv
+Done!
+(878, 3211264)
+s1/friends_s1e07a.mkv
+Done!
+(733, 3211264)
+s1/friends_s1e07b.mkv
+Done!
+(733, 3211264)
+s1/friends_s1e08a.mkv
+Done!
+(707, 3211264)
+s1/friends_s1e08b.mkv
+Done!
+(707, 3211264)
+s1/friends_s1e09a.mkv
+Done!
+(695, 3211264)
+s1/friends_s1e09b.mkv
+Done!
+(695, 3211264)
+s1/friends_s1e10a.mkv
+Done!
+(737, 3211264)
+s1/friends_s1e10b.mkv
+Done!
+(737, 3211264)
+s1/friends_s1e11a.mkv
+Done!
+(709, 3211264)
+s1/friends_s1e11b.mkv
+Done!
+(709, 3211264)
+s1/friends_s1e12a.mkv
+Done!
+(701, 3211264)
+s1/friends_s1e12b.mkv
+Done!
+(701, 3211264)
+s1/friends_s1e13a.mkv
+Done!
+(696, 3211264)
+s1/friends_s1e13b.mkv
+Done!
+(696, 3211264)
+s1/friends_s1e14a.mkv
+Done!
+(731, 3211264)
+s1/friends_s1e14b.mkv
+writing error
+Done!
+(730, 3211264)
+s1/friends_s1e15a.mkv
+Done!
+(709, 3211264)
+s1/friends_s1e15b.mkv
+Done!
+(709, 3211264)
+s1/friends_s1e16a.mkv
+Done!
+(718, 3211264)
+s1/friends_s1e16b.mkv
+Done!
+(718, 3211264)
+s1/friends_s1e17a.mkv
+Done!
+(718, 3211264)
+s1/friends_s1e17b.mkv
+Done!
+(718, 3211264)
+s1/friends_s1e18a.mkv
+Done!
+(739, 3211264)
+s1/friends_s1e18b.mkv
+Done!
+(739, 3211264)
+s1/friends_s1e19a.mkv
+Done!
+(684, 3211264)
+s1/friends_s1e19b.mkv
+Done!
+(684, 3211264)
+s1/friends_s1e20a.mkv
+Done!
+(684, 3211264)
+s1/friends_s1e20b.mkv
+Done!
+(684, 3211264)
+s1/friends_s1e21a.mkv
+Done!
+(709, 3211264)
+s1/friends_s1e21b.mkv
+Done!
+(709, 3211264)
+s1/friends_s1e22a.mkv
+Done!
+(705, 3211264)
+s1/friends_s1e22b.mkv
+Done!
+(705, 3211264)
+s1/friends_s1e23a.mkv
+Done!
+(686, 3211264)
+s1/friends_s1e23b.mkv
+Done!
+(686, 3211264)
+s1/friends_s1e24a.mkv
+Done!
+(765, 3211264)
+s1/friends_s1e24b.mkv
+Done!
+(765, 3211264)
