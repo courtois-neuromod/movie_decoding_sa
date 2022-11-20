@@ -1,7 +1,0 @@
-h5py
-nilearn
-numpy
-torch
-torchvision
-pytorch_lightning
-retro
