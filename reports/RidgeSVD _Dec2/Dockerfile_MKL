@@ -1,0 +1,9 @@
+FROM continuumio/miniconda3
+WORKDIR /app
+
+RUN conda install -c conda-forge scikit-learn
+RUN conda install dask-jobqueue -c conda-forge
+
+RUN conda install -c conda-forge "libblas=*=*mkl"
+
+ENV MKL_NUM_THREADS=32
