@@ -1,0 +1,68 @@
+(venv) [sahmadi@ct01 Ridge_SVD_v5]$ singularity shell comp_mkl32_vf1_latest-2022-12-01-06b3b8653bc4.sif 
+Singularity> python
+Python 3.9.12 (main, Apr  5 2022, 06:56:58) 
+[GCC 7.5.0] :: Anaconda, Inc. on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from dask.distributed import Client, LocalCluster, SSHCluster
+>>> containered_python_exe = f"singularity exec /home/sahmadi/Ridge_SVD_v5/comp_mkl32_vf1_latest-2022-12-01-06b3b8653bc4.sif python"
+>>> cluster= SSHCluster(["comp01", "comp02", "comp03", "comp04", "comp05", "comp06"], worker_options={"nthreads": 1}, remote_python=containered_python_exe)
+2022-12-02 10:49:46,272 - distributed.deploy.ssh - INFO - 2022-12-02 10:49:46,270 - distributed.http.proxy - INFO - To route to workers diagnostics web server please install jupyter-server-proxy: python -m pip install jupyter-server-proxy
+2022-12-02 10:49:46,274 - distributed.deploy.ssh - INFO - 2022-12-02 10:49:46,273 - distributed.scheduler - INFO - State start
+2022-12-02 10:49:46,280 - distributed.deploy.ssh - INFO - /opt/conda/lib/python3.9/site-packages/distributed/utils.py:165: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to hostname: [Errno 101] Network is unreachable
+2022-12-02 10:49:46,280 - distributed.deploy.ssh - INFO - warnings.warn(
+2022-12-02 10:49:46,282 - distributed.deploy.ssh - INFO - 2022-12-02 10:49:46,280 - distributed.scheduler - INFO -   Scheduler at:     tcp://10.1.1.13:34407
+2022-12-02 10:49:48,066 - distributed.deploy.ssh - INFO - 2022-12-02 10:49:48,064 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.1.1.16:43981'
+2022-12-02 10:49:48,092 - distributed.deploy.ssh - INFO - 2022-12-02 10:49:48,091 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.1.1.15:34469'
+2022-12-02 10:49:48,108 - distributed.deploy.ssh - INFO - 2022-12-02 10:49:48,106 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.1.1.14:44307'
+2022-12-02 10:49:48,327 - distributed.deploy.ssh - INFO - 2022-12-02 10:49:48,325 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.1.1.17:36073'
+2022-12-02 10:49:48,327 - distributed.deploy.ssh - INFO - 2022-12-02 10:49:48,325 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.1.1.18:33381'
+2022-12-02 10:49:48,464 - distributed.deploy.ssh - INFO - 2022-12-02 10:49:48,463 - distributed.diskutils - INFO - Found stale lock file and directory '/tmp/dask-worker-space/worker-_ebm7ioc', purging
+2022-12-02 10:49:48,473 - distributed.deploy.ssh - INFO - 2022-12-02 10:49:48,471 - distributed.worker - INFO -       Start worker at:      tcp://10.1.1.16:46155
+2022-12-02 10:49:48,495 - distributed.deploy.ssh - INFO - 2022-12-02 10:49:48,494 - distributed.diskutils - INFO - Found stale lock file and directory '/tmp/dask-worker-space/worker-ysn22t67', purging
+2022-12-02 10:49:48,506 - distributed.deploy.ssh - INFO - 2022-12-02 10:49:48,504 - distributed.worker - INFO -       Start worker at:      tcp://10.1.1.15:45061
+2022-12-02 10:49:48,518 - distributed.deploy.ssh - INFO - 2022-12-02 10:49:48,517 - distributed.diskutils - INFO - Found stale lock file and directory '/tmp/dask-worker-space/worker-8f1axv0l', purging
+2022-12-02 10:49:48,527 - distributed.deploy.ssh - INFO - 2022-12-02 10:49:48,525 - distributed.worker - INFO -       Start worker at:      tcp://10.1.1.14:33683
+2022-12-02 10:49:48,744 - distributed.deploy.ssh - INFO - 2022-12-02 10:49:48,742 - distributed.worker - INFO -       Start worker at:      tcp://10.1.1.18:33693
+2022-12-02 10:49:48,746 - distributed.deploy.ssh - INFO - 2022-12-02 10:49:48,744 - distributed.worker - INFO -       Start worker at:      tcp://10.1.1.17:35599
+>>> client = Client("tcp://10.1.1.13:34407")
+>>> import myfunc2_f
+sklearn version**********
+1.2.dev1
+***the current state of the threadpool-enabled runtime libraries that are loaded 
+[{'filepath': '/opt/conda/lib/libmkl_rt.so.1',
+  'internal_api': 'mkl',
+  'num_threads': 16,
+  'prefix': 'libmkl_rt',
+  'threading_layer': 'intel',
+  'user_api': 'blas',
+  'version': '2021.4-Product'},
+ {'filepath': '/opt/conda/lib/libiomp5.so',
+  'internal_api': 'openmp',
+  'num_threads': 32,
+  'prefix': 'libiomp',
+  'user_api': 'openmp',
+  'version': None}]
+>>> myfunc2_f.my_func_new_1()
+###############################################################################
+***the current state of the threadpool-enabled runtime libraries that are loaded 
+[{'filepath': '/opt/conda/lib/libmkl_rt.so.1',
+  'internal_api': 'mkl',
+  'num_threads': 16,
+  'prefix': 'libmkl_rt',
+  'threading_layer': 'intel',
+  'user_api': 'blas',
+  'version': '2021.4-Product'},
+ {'filepath': '/opt/conda/lib/libiomp5.so',
+  'internal_api': 'openmp',
+  'num_threads': 32,
+  'prefix': 'libiomp',
+  'user_api': 'openmp',
+  'version': None}]
+(23267, 16384) (48,)
+****************Data_shape
+(23267, 16384) (23267, 6728)
+(1800, 16384) (200, 16384) (1800, 4096) (200, 4096)
+1669996250.5079002
+1669996331.6797655
+******%%%%%%****************************Training time: 81.17186522483826s
+>>> exit()

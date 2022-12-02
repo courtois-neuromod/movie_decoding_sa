@@ -1,0 +1,67 @@
+(venv) [sahmadi@ct01 Ridge_SVD_v5]$ singularity shell comp_mkl32_vf1_latest-2022-12-01-06b3b8653bc4.sif 
+Singularity> python 
+Python 3.9.12 (main, Apr  5 2022, 06:56:58) 
+[GCC 7.5.0] :: Anaconda, Inc. on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from dask.distributed import Client, LocalCluster, SSHCluster
+^[[Acontainered_python_exe = f"singularity exec /home/sahmadi/Ridge_SVD_v5/comp_mkl32_vf1_latest-2022-12-01-06b3b8653bc4.sif python"
+>>> cluster= SSHCluster(["comp01", "comp02", "comp03", "comp04"], worker_options={"nthreads": 1}, remote_python=containered_python_exe)
+
+2022-12-02 10:35:27,630 - distributed.deploy.ssh - INFO - 2022-12-02 10:35:27,628 - distributed.http.proxy - INFO - To route to workers diagnostics web server please install jupyter-server-proxy: python -m pip install jupyter-server-proxy
+2022-12-02 10:35:27,633 - distributed.deploy.ssh - INFO - 2022-12-02 10:35:27,631 - distributed.scheduler - INFO - State start
+2022-12-02 10:35:27,638 - distributed.deploy.ssh - INFO - /opt/conda/lib/python3.9/site-packages/distributed/utils.py:165: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to hostname: [Errno 101] Network is unreachable
+2022-12-02 10:35:27,638 - distributed.deploy.ssh - INFO - warnings.warn(
+2022-12-02 10:35:27,640 - distributed.deploy.ssh - INFO - 2022-12-02 10:35:27,639 - distributed.scheduler - INFO -   Scheduler at:     tcp://10.1.1.13:38179
+2022-12-02 10:35:29,398 - distributed.deploy.ssh - INFO - 2022-12-02 10:35:29,396 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.1.1.16:39693'
+2022-12-02 10:35:29,424 - distributed.deploy.ssh - INFO - 2022-12-02 10:35:29,422 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.1.1.14:38735'
+2022-12-02 10:35:29,434 - distributed.deploy.ssh - INFO - 2022-12-02 10:35:29,432 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.1.1.15:43507'
+2022-12-02 10:35:29,803 - distributed.deploy.ssh - INFO - 2022-12-02 10:35:29,801 - distributed.diskutils - INFO - Found stale lock file and directory '/tmp/dask-worker-space/worker-rug51ume', purging
+2022-12-02 10:35:29,812 - distributed.deploy.ssh - INFO - 2022-12-02 10:35:29,809 - distributed.worker - INFO -       Start worker at:      tcp://10.1.1.16:35685
+2022-12-02 10:35:29,825 - distributed.deploy.ssh - INFO - 2022-12-02 10:35:29,823 - distributed.diskutils - INFO - Found stale lock file and directory '/tmp/dask-worker-space/worker-bv6hasqw', purging
+2022-12-02 10:35:29,834 - distributed.deploy.ssh - INFO - 2022-12-02 10:35:29,832 - distributed.worker - INFO -       Start worker at:      tcp://10.1.1.14:41825
+2022-12-02 10:35:29,842 - distributed.deploy.ssh - INFO - 2022-12-02 10:35:29,841 - distributed.diskutils - INFO - Found stale lock file and directory '/tmp/dask-worker-space/worker-4_mvmt6z', purging
+2022-12-02 10:35:29,851 - distributed.deploy.ssh - INFO - 2022-12-02 10:35:29,849 - distributed.worker - INFO -       Start worker at:      tcp://10.1.1.15:44069
+>>> 
+>>> client = Client("tcp://10.1.1.13:38179")
+>>> import myfunc2_f
+sklearn version**********
+1.2.dev1
+***the current state of the threadpool-enabled runtime libraries that are loaded 
+[{'filepath': '/opt/conda/lib/libmkl_rt.so.1',
+  'internal_api': 'mkl',
+  'num_threads': 16,
+  'prefix': 'libmkl_rt',
+  'threading_layer': 'intel',
+  'user_api': 'blas',
+  'version': '2021.4-Product'},
+ {'filepath': '/opt/conda/lib/libiomp5.so',
+  'internal_api': 'openmp',
+  'num_threads': 32,
+  'prefix': 'libiomp',
+  'user_api': 'openmp',
+  'version': None}]
+>>> myfunc2_f.my_func_new_1()
+###############################################################################
+***the current state of the threadpool-enabled runtime libraries that are loaded 
+[{'filepath': '/opt/conda/lib/libmkl_rt.so.1',
+  'internal_api': 'mkl',
+  'num_threads': 16,
+  'prefix': 'libmkl_rt',
+  'threading_layer': 'intel',
+  'user_api': 'blas',
+  'version': '2021.4-Product'},
+ {'filepath': '/opt/conda/lib/libiomp5.so',
+  'internal_api': 'openmp',
+  'num_threads': 32,
+  'prefix': 'libiomp',
+  'user_api': 'openmp',
+  'version': None}]
+(23267, 16384) (48,)
+****************Data_shape
+(23267, 16384) (23267, 6728)
+(1800, 16384) (200, 16384) (1800, 4096) (200, 4096)
+1669995398.8178802
+1669995477.636014
+******%%%%%%****************************Training time: 78.81813383102417s
+>>> exit
+
